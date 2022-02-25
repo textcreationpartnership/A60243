@@ -1,0 +1,632 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Romish priest turn'd protestant with the reasons of his conversion, wherin the true Church is exposed to the view of Christians and derived out of the Holy Scriptures, sound reason, and the ancient fathers : humbly presented to both houses of Parliament / by James Salago.</title>
+            <author>Salgado, James, fl. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60243</idno>
+            <idno type="STC">Wing S380</idno>
+            <idno type="STC">ESTC R28844</idno>
+            <idno type="EEBO-CITATION">10767762</idno>
+            <idno type="OCLC">ocm 10767762</idno>
+            <idno type="VID">45757</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60243)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45757)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1410:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Romish priest turn'd protestant with the reasons of his conversion, wherin the true Church is exposed to the view of Christians and derived out of the Holy Scriptures, sound reason, and the ancient fathers : humbly presented to both houses of Parliament / by James Salago.</title>
+                  <author>Salgado, James, fl. 1680.</author>
+               </titleStmt>
+               <extent>[8], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Cockerill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Anti-Catholicism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45757:1" rendition="simple:additions"/>
+            <p>THE Romiſh Prieſt TURN'D PROTESTANT: With the REASONS OF HIS CONVERSION.</p>
+            <p>WHEREIN The True Church is Expoſed to the View of Chriſtians, and Derived out of the Holy Scriptures, Sound Reaſon, and the Ancient Fathers.</p>
+            <p>
+               <hi>Humbly preſented to both Houſes of Parliament.</hi>
+            </p>
+            <p>By <hi>JAMES SALGADO,</hi> a <hi>Spaniard,</hi> formerly a Prieſt of the Order of the <hi>Dominicans.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Cockerill</hi> at the <hi>Three Legs</hi> in the <hi>Poultrey,</hi> over-againſt the <hi>Stocks-Market,</hi> 1679.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:45757:2"/>
+            <pb facs="tcp:45757:2"/>
+            <head>To the Right Honourable the Lords Spi<g ref="char:EOLhyphen"/>ritual and Temporal, with the Honour<g ref="char:EOLhyphen"/>able the Commons of <hi>England</hi> in Parlia<g ref="char:EOLhyphen"/>ment Aſſembled.</head>
+            <opener>
+               <salute>Sirs,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Hope you will pardon my boldneſs, becauſe I preſume to appear before your faces. It is requiſite I ſhould give an account of my hope in Chriſt unto you, who are (next to the moſt Illuſtrious King <hi>Charles</hi> the <hi>II.</hi> De<g ref="char:EOLhyphen"/>fender of the Faith) the ſureſt Maintainers of the Proteſtant Religion. And unto whom elſe ſhould I dedicate a Treatiſe of the True Church, if not to the <hi>Parliament,</hi> where as well the Commonwealth is to be found in the Church, as the Church in the Commonwealth? Namely, There is a new reſemblance in your Houſes, of the old face of <hi>Iſrael</hi> (which ma<g ref="char:EOLhyphen"/>keth
+<pb facs="tcp:45757:3"/>me the bolder) as the countenance of Law<g ref="char:EOLhyphen"/>givers (like that of <hi>Moſes</hi>) doth in its luſtre go far beyond the reſt. Nature and Religion have made you of that conſtitution, that you do not only ſhine for your ſelves, but alſo ſpread out your beams for the benefit of others. Sirs, Be pleas'd to accept of this ſmall token of my due ſubmiſſion, and to look upon him with an eye of benevolence, who deſiring to depend upon your <hi>Sanhedrim,</hi> will always remain, Sirs,</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt Obedient Servant,</hi>
+James Salgado, <hi>a</hi> Spaniard, <hi>a Converted Prieſt.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:45757:3"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <p>THere are ſo many of this kind of Books put out, that one ſhould think This to be ſuperfluous. But I was conſtrain'd to conform my ſelf to the preſent Age; not only for that I might wipe off the Calumnies of the <hi>Papiſts,</hi> who commonly ſay, That the <hi>Roman</hi> Prieſts de<g ref="char:EOLhyphen"/>ſert the <hi>Roman</hi> Church for no other reaſon than this, That they may have liberty to do what they pleaſe, (whereas God knoweth, they amongſt themſelves have a freedom ſo unbridled, that there is almoſt nothing found there, but a great diſorder and licenſe); and to ſatisfie the Proteſtants in the reaſon of my Converſion, and ſhew to both the parties, why I am turn'd a <hi>Proteſtant.</hi> I com<g ref="char:EOLhyphen"/>poſed this Book firſt in <hi>Latin;</hi> but that my Con<g ref="char:EOLhyphen"/>verſion ſhould be manifeſt to all, yea even to the
+<pb facs="tcp:45757:4"/>meaneſt, I cauſed it to be Tranſlated into <hi>Engliſh.</hi> Kind Reader, apply theſe newly-ſhuffled Cards (as I may uſe the phraſe of a Right Reverend Biſhop of this Realm) for thy own profit. May be you will find <hi>that</hi> in it, you never heard before. So farewel: From one that is deſirous of thy Salvation.</p>
+            <closer>
+               <signed>JAMES SALGADO.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:45757:4"/>
+            <opener>
+               <dateline>
+                  <hi>Chr. Ch.</hi> Oxon, <date>Dec. <hi>26—78.</hi>
+                  </date>
+               </dateline>
+               <salute>Reverend Sir,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Am to give you thanks for the occaſion you gave me of acquaintance with the bearer hereof, Mr. <hi>James Salgado,</hi> whom I find by his diſcourſe to be a right <hi>Spaniard,</hi> born of a good Family, and of very good parts; and to have ſuffered very much by the Inquiſition of <hi>Spain</hi> for embracing the Truth of our Proteſtant Religion. This conſideration, and the great bounty and charity I ſaw uſed by his Countrey<g ref="char:EOLhyphen"/>men towards ours, when found in diſtreſs among them, makes me think him an object ſingularly well deſer<g ref="char:EOLhyphen"/>ving our common charity and benevolence; eſpecially conſidering how very rare a caſe it is to ſee a Clergy<g ref="char:EOLhyphen"/>man of his Nation come to us. They have been civil to him in this <g ref="char:V">Ʋ</g>niverſity, and I hope good men will be ſo to him with you. To ſuch as may deſire to learn the <hi>Spaniſh</hi> or <hi>Italian</hi> Tongue, he may be ſerviceable, having good skill in both, but in the former he is emi<g ref="char:EOLhyphen"/>nent, as born and bred in <hi>Madrid.</hi> I will preſume to beg the continuance of your goodneſs to him, af<g ref="char:EOLhyphen"/>fording him your inſtruction and commendation to good men there; for ſome employment he may be capa<g ref="char:EOLhyphen"/>ble of, by which you ſhall oblige much</p>
+            <closer>
+               <salute>
+                  <hi>Reverend Sir,</hi> 
+               </salute> 
+               <signed>
+                  <hi>Your very affectionate humble Servant,</hi>
+Andr. Sall.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:45757:5"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>I Do believe that the Author of this Book, <hi>James Salgado,</hi> was a <hi>Romiſh Prieſt,</hi> according to the Order of the <hi>Dominicans;</hi> and that he is now be<g ref="char:EOLhyphen"/>come a true Convert to the <hi>Proteſtant Religion,</hi> as the enſuing Diſcourſe will further evidence to the intelligent Reader.</p>
+            <closer>
+               <signed>
+                  <hi>Nic. Lloyd</hi> Rector of St. <hi>Mary Newington.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:45757:5"/>
+            <head>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> THE True Church.</head>
+            <p>THE ancient Fathers commonly called the Church an Ark of <hi>Noah,</hi> without whoſe boſom none could be freed from the peril of everlaſting damnation, as well as none that was out of the Ark could eſcape the danger of the flood. And indeed they did not ſay it without reaſon; becauſe they knew that to them that were ſtrangers from the Church her priviledges did not belong, as Vocation, Juſtification, Sanctification; the want of which diſinables a man from coming to the perfection of the future world, and to the enjoyment of it. And as thoſe members that are not joyn'd to a human body, are deſtitute of ſenſe and life; ſo they that are rooted out from the Head of the Church, which is Chriſt, or have never been inſerted into the Olive-tree, can ex<g ref="char:EOLhyphen"/>pect no ſpiritual influence, which is able to make us the heirs of eternal ſalvation.</p>
+            <p>This was the reaſon for which <hi>David</hi> affirmeth, That the Heathens did not know the ſtatutes of the Lord, namely, becauſe they have been without the communion of <hi>Iſrael,</hi> where the Church was in the <hi>Old Teſtament; Becauſe the Lord ſhewed his Word unto Jacob, his Statutes and his Judgments unto Iſrael, and he hath not dealt ſo with any Nation;
+<note place="margin">Pſal. 147.19, 20.</note> therefore they have not known his judgments.</hi>
+            </p>
+            <p>The Apoſtle doth aſcend higher on this matter, when he writing to the <hi>Epheſians,</hi> ſaith, <hi>At that time you were without Chriſt,
+<note place="margin">Epheſ. 2.12.</note> you were aliens from the commonwealth of Iſrael, and ſtrangers from the covenants of pro<g ref="char:EOLhyphen"/>miſe, having no hope, and without God in the world;</hi> Namely, becauſe they were not in the boſome of the Church, and were without that Ark of <hi>Noah</hi> we ſpoke of; they were alſo without the Communion of Chriſt, who is a loyal Husband only to one Spouſe, as it is ſaid in the <hi>Canticles, My Dove, my undefiled, is but one.</hi>
+               <note place="margin">Cant. 6.9.</note>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:45757:6"/>
+But when the Fathers did uſe this ſimilitude, they meant by it the Uni<g ref="char:EOLhyphen"/>verſal Church, whoſe beginning <hi>Auſtin</hi> deriveth from <hi>Abel,</hi> and dedu<g ref="char:EOLhyphen"/>ceth the continuation of it until the conſummation of the world. There<g ref="char:EOLhyphen"/>fore no Church which is extant here, or there, or in any place of the world, can go (in that ſignification) under a name of an Univerſal Church; but that which was, is, and ſhall be, and comprehends in its <hi>ambit,</hi> as well the Triumphant as the Militant part. And if that be Ca<g ref="char:EOLhyphen"/>tholick,
+<note place="margin">Vinc. Li<g ref="char:EOLhyphen"/>rin. contra. noph. novi<g ref="char:EOLhyphen"/>tates.</note> according to the Rule of <hi>Vincentius Lirinenſis</hi> in his Book againſt the prophane novelties, <hi>Which has been believed always, every<g ref="char:EOLhyphen"/>where, and by all,</hi> ſurely the Catholick Church it ſelf muſt be this, which was everywhere, always, and was or will be found amongſt all Nations of the World, by reaſon the thing ruled cannot be narrower than the Rule, nor Faith cannot be found but in Believers.</p>
+            <p>I cannot but confeſs, that there are many particular Congregations, many Provincial or National Churches, amongſt which, one may be, and is ſounder than the other; yet notwithſtanding this, none of theſe Churches can be call'd Catholick, if we take this word in a ſtrict ſignifi<g ref="char:EOLhyphen"/>cation; Being they are only parts, or members making up one general body, none of which can be call'd, without a contradiction, Univerſal, except one would grant unto a hand or a foot the name of a whole body.</p>
+            <p>From hence we may ſee, that the <hi>Roman</hi> Church, being it is a parti<g ref="char:EOLhyphen"/>cular one (albeit it ſhould be ſound and Orthodox, as it is not) cannot appropriate unto it ſelf excluſively to other Churches profeſſing Chriſt, the name of a Catholick or Univerſal Church.</p>
+            <p>I confeſs I am not ſo rigid, as to cut off the <hi>Roman</hi> Church it ſelf from the latitude of the Univerſal Church; becauſe, beſides that people li<g ref="char:EOLhyphen"/>ving in that ſame Communion (yet not formally Papiſts) which in the ſimplicity of their hearts do profeſs God and our Saviour, and believe in him, and in order to that do work out their ſalvation as well as they can, (although many of them neither underſtand the matter, nor the circumſtances of it, by reaſon of their unavoidable or invincible ig<g ref="char:EOLhyphen"/>norance), can arrive to eternal ſalvation, being it is truth, <hi>That God is no reſpecter of perſons;
+<note place="margin">Act. 10.34, 35.</note> But in every nation, he that feareth him, and worketh righteouſneſs, is accepted with him:</hi> We do likewiſe yield, that the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Church may be called a Church, although not in the <hi>moral,</hi> yet in the <hi>phyſical</hi> ſenſe, juſt as an Adultreſs doth not loſe the name of a Wife, al<g ref="char:EOLhyphen"/>beit ſhe loſeth the name of an honeſt Wife.</p>
+            <p>But now becauſe the Court of <hi>Rome</hi> will have their Church to conſiſt either in the Pope or in the Council, or elſe in them both; therefore we will ſpeak of it as it is conſidered in that kind, and conſequently ſhew and
+<pb n="3" facs="tcp:45757:6"/>declare the ſame to be falſe and erroneous. It is true that the Church taken in that kind, cannot be, but as they ſay in Schools, a repreſentative one; nevertheleſs, becauſe the reſt of that communion are bound to obey it as an infallible one, therefore we take the denomination, <hi>a potiori,</hi> and ſo affirm the ſame to be falſe and <hi>non</hi>-Catholick; yea, none at all. It was not enough for the Papiſts to pronounce all thoſe Churches that hold no communion with them, Hereticks, and ſo to ſhut up the Gates of Heaven before them, but they were and are ſo bold as to affirm their Church to be infallible and without error.</p>
+            <p>It is indeed a great <hi>poſtulatum,</hi> which is not only falſe in it ſelf, but alſo a great cauſe why the reſt of the Churches will not, nor can hold communion with them. And that I may paſs it by, that no particular Church (as the <hi>Roman</hi> is) can be call'd infallible; likewiſe it is as ſure, that they, according to the way of the <hi>Athenians,</hi> do not know whom they worſhip, and ſo erect an Altar <hi>To the unknown God.</hi>
+               <note place="margin">Act. 17.23.</note>
+            </p>
+            <p>In vain do any diſpute about the propriety or priviledg of a thing, when they can have no certain knowledg about the ſubject it ſelf. In vain do they affirm their Church to be Infallible, when they cannot tell where and which this Church may be; becauſe in this matter, we may ſee, <hi>Pares aquilas &amp; pila minantia pilis,</hi> one contradicting another. Some of them, as namely, the <hi>Sorboniſts,</hi> do place it in the Council; others, as Jeſuits, only in the Pope; ſome again ſay, that it doth conſiſt in them both jointly, that is, in the Pope and Council.</p>
+            <p>Chuſe any ſide you pleaſe, and take hold either of one, or of the other ſentiment, you will find your ſelf to ſtagger; and being ſet in the midſt of doubtfulneſs, with <hi>Maſius</hi> of <hi>Sylvaducis,</hi> you ſhall not know where to turn you. May be you will perceive from whence you have declined, but not whither you ſhould go; becauſe after you have made choice of either of their meanings, you will find your ſelf intangled with many difficulties, out of which you ſhall not be able to free your ſelf; and ſo you will find your ſelf to offer a ſacrifice unto an unknown god.</p>
+            <p>This I will endeavour to ſhew briefly; Suppoſe now you ſhould yield that the Church doth conſiſt in the Council only, there you ſhall find preſently ſome of that ſame Communion contradicting that. But ha<g ref="char:EOLhyphen"/>ving paſt over this, I may ask ſuch a man, Who can know this Council to be infallible? Becauſe firſt, <hi>Ex partibus homogeneis nihil heterogeneum poteſt conſtari;</hi> out of things which are of that ſame nature, nothing can be made of a diverſe nature: All the members making up the Coun<g ref="char:EOLhyphen"/>cil were fallible, How can it be then, that they ſhould become infallible,
+<pb n="4" facs="tcp:45757:7" rendition="simple:additions"/>when they are gathered into one Synodical body? And if this infallibili<g ref="char:EOLhyphen"/>ty came but then to the Council, when it came to be a Council, I pray, Where was it before? in what part of the World did it uphold it ſelf? By what <hi>Tubus opticus,</hi> or by what inſenſible tranſpiration did this good in<g ref="char:EOLhyphen"/>fallibility come down upon the Fathers of the Council? or what ſhall become of that infallibility after the Council is diſſolved? into what place ſhall it betake it ſelf to reſt? None can give an account.</p>
+            <p>Then how ſhall you know, that all they that were gathered in the Council, have been lawfully baptized, or baptized at all? becauſe you are not certain of the Miniſters or the Prieſts intention, upon which hangeth the efficacy of the Sacraments; how that they are canonically ordained, and not <hi>per ſaltum;</hi> how that they have not intruded them<g ref="char:EOLhyphen"/>ſelves by <hi>Simony;</hi> all which thou muſt believe with a Divine Faith, be<g ref="char:EOLhyphen"/>fore thou canſt embrace the decrees of the Council for infallible ones.</p>
+            <p>Moreover, if the infallibility of the Church do conſiſt in the Council, then of neceſſity there ſhould be always extant a general Council; ſo that the diffident parts might have a free entrance, in order to make a diſquiſition of their quarrel, and likewiſe a determination, and ſo live in peace. But where is there ſuch a one? And ſuppoſe there ſhould be al<g ref="char:EOLhyphen"/>ways a Council <hi>in eſſe,</hi> which nevertheleſs is impoſſible; yet how ſhould you know this Council not to be partial, and not ſuch a one as the Coun<g ref="char:EOLhyphen"/>cil of <hi>Ariminum,</hi> neither ſubject to correction, by reaſon many former Councils have been mended by the later, as <hi>Auſtin</hi> tells us.</p>
+            <p>May be you will make this exception, Chriſt promiſeth unto his Diſci<g ref="char:EOLhyphen"/>ples,
+<note place="margin">Joh. 16.13</note> and ſo conſequently unto his Church, That <hi>the ſpirit of truth ſhall guide them into all truth;</hi> and that <hi>the Gates of Hell ſhall not prevail againſt it.</hi>
+               <note place="margin">Mat. 16.18</note>
+            </p>
+            <p>Well ſaid, Chriſt did promiſe the holy Spirit unto his Diſciples; but as the things extraordinary muſt not be compared with the things ordina<g ref="char:EOLhyphen"/>ry, becauſe the Diſciples had not only the matter, but alſo the words, from the indictment of the Holy Ghoſt; ſo the Churches of our later times,
+<note place="margin">Gal. 1.8. and 6.21. 2 Tim. 3.16.</note> are bound to the Doctrine of Scriptures, which are given by Inſpiration of God, and are not only profitable, but ſufficient alſo for all kind of holy inſtructions; which if the Council doth follow, there is no doubt, but it ſhall have the aſſiſtance of the Holy Ghoſt. 2. When Chriſt ſaith, the Gates of Hell ſhall not prevail againſt the Church, he doth not underſtand any particular Church, or their Bi<g ref="char:EOLhyphen"/>ſhops, but the Militant Church diſperſed through all the World; and that this cannot err in matters fundamental, we willingly allow. 3. Whence do you know that the Holy Spirit acts a <hi>praeſes</hi> in every
+<pb n="5" facs="tcp:45757:7"/>Council, by reaſon the <hi>Ariminum</hi> Synod may have the name of a Coun<g ref="char:EOLhyphen"/>cil as well as the <hi>Nicene.</hi> 4. Who can ſatisfie you that the members of a Council do ſpeak according to truth, and by the inſpiration of God, rather than partially? or that their Decrees are framed more by the weight of Reaſon and Scriptures, than by the multitude of Votes? or that it is not ſuch a Council as the <hi>Tridentine</hi> was, where the Holy Ghoſt (as the Biſhop of <hi>Fifechurches,</hi>
+               <note place="margin">Epiſcopus quinque Eccleſ.</note> a member of that Synod ſaith) was brought over from <hi>Rome</hi> into <hi>Trident,</hi> in the Bags of the <hi>Roman</hi> Vere<g ref="char:EOLhyphen"/>dary, and he ſtaid out longer when the Waters did riſe, but came ſoon<g ref="char:EOLhyphen"/>er after they were fallen; ſo the Holy Spirit was afraid, either to be wet, or to be drowned. 5. At laſt a Papiſt ſhould proceed very diſ<g ref="char:EOLhyphen"/>orderly, if he being asked about the infallibility of a Council, from whence he could prove it, ſhould betake him to Scripture; becauſe we ask them antecedently to the Word of God of this infallibility of the Church, by reaſon it is her Office as well to make a Canon, as to give authority to the Scriptures; being their aſſertion is this, That the au<g ref="char:EOLhyphen"/>thority of Scripture (as to us) doth depend on the authority of the Church; But that which giveth authority to another thing, cannot <hi>mu<g ref="char:EOLhyphen"/>tuate</hi> his own from it.</p>
+            <p>Hence you may ſee with what difficulties they intricate themſelves, that place the Church and its infallibility in the Council.</p>
+            <p>But, neither thoſe have leſſer ones, that ſettle the ſame in the Pope alone.</p>
+            <p>Although this ſentiment is very fooliſh, and conſutes its own ſelf by reaſon of its abſurdity, being it places the Church, which is a congre<g ref="char:EOLhyphen"/>gation of many, in one man: yet we ſhall proceed in our propoſition, (will run on our race). For the moſt part of the Jeſuits do hold this ſentence, and affirm, That the Pope like the <hi>Pythia</hi> of <hi>Delphos,</hi> only by himſelf may, and can frame Decrees, and expoſe them to the belief of the people.</p>
+            <p>Be it ſo, that this Infallibility doth reſide with the Pope, the ſame difficulties will come again.</p>
+            <p>For how will you be perſwaded that the Pope hath been Popable, be<g ref="char:EOLhyphen"/>cauſe he could be not Baptized? He could have occupied the See by force, by <hi>Simony,</hi> he could be a Woman, as <hi>Johanna</hi> was, and not a man; all which, if it be preſent, the Pope is no more a Pope.</p>
+            <p>Then how can you know that the Pope when he was going to frame his Decretals, did uſe the uſual and neceſſary preparations, as Prayers, and Faſting for ſeven days, <hi>&amp;c?</hi> How that he made them <hi>Motu proprio,</hi> as the <hi>Roman</hi> Court ſaith, that is, by his own Will, and not by the per<g ref="char:EOLhyphen"/>ſwaſion
+<pb n="6" facs="tcp:45757:8"/>of the Chamber; all which, if it be deficient, the Decretals and Conſtitutions are of no value, nor pronounced out of the <hi>Cathedra</hi> or <hi>Pulpit,</hi> and ſo neither binding the Conſciences, nor Infallible.</p>
+            <p>Further, By what Argument will you be perſwaded, that this Infal<g ref="char:EOLhyphen"/>libility doth not belong as well to the Biſhop of <hi>Paris,</hi> or <hi>Mantua,</hi> as to the Biſhop of <hi>Rome?</hi> and ſo that this infallibility is not auferible from the <hi>Roman</hi> Biſhop,
+<note place="margin">Gerſon <hi>de auferibili<g ref="char:EOLhyphen"/>tatae Pape.</hi>
+               </note> of whoſe Auferibility <hi>Gerſon</hi> did write a Treatiſe; all which you muſt believe, if you will take his Decretals for infallible.</p>
+            <p>At laſt, how one ſingle man can be infallible in matters of Faith can<g ref="char:EOLhyphen"/>not be underſtood, becauſe he hath neither any promiſe of it, nor hath proved himſelf to be ſuch an one, as is clear and manifeſt by many ex<g ref="char:EOLhyphen"/>amples.</p>
+            <p>May be you will betake your ſelf to that vulgar diſtinction, of the Pope pronouncing in his Chair, or in his Hall; out of the Pulpit, and without the Pulpit; ſo that he may be call'd Infallible as to the firſt, but not as to the ſecond.</p>
+            <p>But you'll find very little comfort in that ſame diſtinction; becauſe, beſides that, it cannot be defined how one and the ſame man ſhould con<g ref="char:EOLhyphen"/>tradict himſelf without fear or coaction in the ſame matters: likewiſe, the Pope who can deceive, being out of the Pulpit, ſhould take advice from himſelf as ſitting in it, that he might not be miſtaken; or elſe the Cardinals, if they would have the holy Father to be without blame, ſhould bind faſt this good old man to the Pulpit with chains, as another <hi>Prometheus</hi> to a <hi>Caucaſus,</hi> that he ſhould not ſtir from this <hi>Cathedra,</hi> and ſo ſpeak always truth. But it is over-true, that the holy Popes did err moſt abominably, as pronouncing out of the Pulpit, as it is ſhewn both by Papiſts and Proteſtants;
+<note place="margin">Platina <hi>de vitis Ponti<g ref="char:EOLhyphen"/>ficum Ro<g ref="char:EOLhyphen"/>manorum.</hi>
+               </note> and is to be ſeen in <hi>John,</hi> in <hi>Stephanus,</hi> in <hi>Formoſus</hi> and others, which are to be read of in <hi>Platina,</hi> of the lives of the <hi>Roman</hi> Popes.</p>
+            <p n="2">2. They cannot tell us what they do underſtand by this <hi>Cathedra,</hi> or Pulpit; for as to a material Pulpit, it can contribute nothing to the in<g ref="char:EOLhyphen"/>fallibility of the Pope; or elſe it could flow in as well upon a Herdſman as the Pope, if it ſhould work by its Phyſical and internal virtue. And as to a moral Pulpit, of which Chriſt makes mention, when he ſpeaketh of the Fulpit of <hi>Moſes,</hi> nothing elſe can be underſtood by it, beſides the Holy Scriptures; and if the Pope pronounce accordingly to them, we will freely obey him.</p>
+            <p n="3">3. The Holy Spirit, upon whom, as they ſay, the infallibility of the Pope dependeth, is not bound to any place, but bloweth where he plea<g ref="char:EOLhyphen"/>ſeth. Others ſeeing no ſecurity to be found in the former diſtinction,
+<pb n="7" facs="tcp:45757:8" rendition="simple:additions"/>did commence another, <hi>viz.</hi> That the Pope cannot err in matters <hi>of Law;</hi> but he can be deceived in matters <hi>of fact.</hi>
+            </p>
+            <p>But this likewiſe is a broken Cane, and whoſoever leaneth his hand upon it will be deceived.</p>
+            <p>This diſtinction was found out by thoſe that are call'd in the Popiſh Church, <hi>Janſeniſts,</hi> for to heal that wound that was inflicted on them by <hi>Alexand</hi> the VII, by reaſon of the famous five Articles of <hi>Janſenius<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the Biſhop of <hi>Ypres;</hi> but nevertheleſs, it hath nothing of truth in it ſelf.</p>
+            <p>For 1. when the Pope pronounceth any thing as to the matters of Faith, he doth not only look upon the perſon, but conſiders the perſon as believing ſo or otherwiſe, and ſo condemneth him. And how a man that cannot err (as they ſay) in matters of Law, ſhould err in mat<g ref="char:EOLhyphen"/>ters of Fact, cannot be conceived; by reaſon he having ones Book, and being an infallible ſearcher and interpreter of ones meaning, can fall into the queſtion of Fact, out of the queſtion of Law, and ſo pronounce, that this and no other was the meaning of the Author.</p>
+            <p n="2">2. Becauſe <hi>Law</hi> maketh a preſcription unto a <hi>Fact,</hi> it is not likely, that he who cannot err in matters of Law, ſhould do ſo in matters of Fact.</p>
+            <p n="3">3. Becauſe ſometimes out of a Fact ariſeth a Law; therefore the ſame queſtion which was before a queſtion of Fact, after it is become (by long continuance) a queſtion of Law, may be handled and decided by the Pope infallibly.</p>
+            <p n="4">4. By this way, the Pope ſhall never be able to condemn a Heretick, or ſtrike him with a thunder of an <hi>Anathema,</hi> as one that hath a fallible judgment in matters of Fact: which ſhall not be admitted by the Papiſts.</p>
+            <p n="5">5. That the Pope may err in matters of Law, and that moſt horribly, we have ſhortly ſhewn the ſame a little higher.</p>
+            <p>So that hence we may perceive how ſallibly they believe that place the infallibility in the Pope.</p>
+            <p>For the laſt followeth the third meaning of the Papiſts, <hi>viz.</hi> That the infallibility of the Church reſides in the Pope and Council together. But,
+<q>Incidit in ſcyllam qui vult vitare charybdin.</q> Becauſe the ſame difficulties which were propoſed before ariſe again:</p>
+            <p>Beſides it will be dubious which of them parties, <hi>viz.</hi> if the Pope un<g ref="char:EOLhyphen"/>to the Council, or the Council unto the Pope doth communicate the
+<pb n="8" facs="tcp:45757:9" rendition="simple:additions"/>infallibility. Afterwards, if the Pope be abſent, and be there by his Meſſengers, if they have the ſame authority he ſhould have if he was preſent, The ſame they could not have, becauſe it is his own <hi>formally,</hi> or elſe he could grant it as well to all the Biſhops of the Council, as to his Meſſengers. Moreover, it will be very doubtful if thoſe Decretals which were framed in the Popes abſence, will be infallible, and binding the Conſcience; for if all the Decretals are of no value without the Pope's confirmation, it cannot be conceived how that theſe Conſtitu<g ref="char:EOLhyphen"/>tion, made in, and by the Council of <hi>Trent,</hi> can be ratified, <hi>extracon<g ref="char:EOLhyphen"/>ciliariter,</hi> or without it, by reaſon the Popes infallibility doth not conſiſt as he is ſeparated from the Council, but as he is joyned with it.</p>
+            <p>Hence then every one that hath not a face of a Wizell, may ſee how the Papiſts make their buſineſs to catch a ſhadow, and affirming their Church to be Infallible, doth not know, nor cannot agree amongſt them<g ref="char:EOLhyphen"/>ſelves wherein this Church doth conſiſt: and ſo they do not know how to ſatisfie their own ſelves nor others neither, although they brag very much of it.</p>
+            <q>Projiciunt ampullas &amp; ſeſquipedalia verba.</q>
+            <p>I my ſelf remaining yet in the Popiſh Religion, did perceive my ſelf to be entangled by theſe difficulties; and therefore I often conſidered how to be extricated out of them, that ſo I might praiſe God in purity and holineſs, with the freedom of my Conſcience.</p>
+            <p>And although being in <hi>Spain</hi> (which is my native Country) I did hear very much of the Proteſtant Churches; nevertheleſs, I could never meet with any Books written by the Divines of that Communion, by rea<g ref="char:EOLhyphen"/>ſon we are ſeverely forbidden to read them. But becauſe I did hear that they found all their Doctrine upon the Scriptures, I took a great deſire to read the ſame, and to ſearch after the Truth in order to my Salvation. Neither do they forbid in <hi>Spain,</hi> as a Countrey religious above the reſt of the Papiſts, to read the Holy Bible.</p>
+            <p>And after I had made it my buſineſs to read the Holy Word of God, I met with thoſe words of the Apoſtle <hi>Paul;
+<note place="margin">2 Tim. 3.16, 17.</note> All Scripture is given by in<g ref="char:EOLhyphen"/>ſpiration of God, and is profitable for doctrine, for reproof, for correction, for inſtruction in righteouſneſs: That the man of God may be perfect, thorowly furniſhed with all good works.</hi> Here it ſeemed unto me, that the Apoſtle had drawn a portraicture of a Miniſter, and propoſed not only the method of Preaching, but alſo the matter and the off ſpring of it; and ſo declared by what means a Man of God, that is, a Miniſter
+<pb n="9" facs="tcp:45757:9"/>of Chriſt, might come to a full perfection of learning, in order to the Inſtruction of their ſouls, that ſhould be committed to his care.</p>
+            <p>Namely, he meant the <hi>Holy Scriptures</hi> of which he thought, they did contain the treaſure of the Divine Wiſdom, when he pronounces them to be <hi>able to make one wiſe unto ſalvation,</hi>
+               <note place="margin">2 Tim. 3.15.</note> and expreſſeth the four foun<g ref="char:EOLhyphen"/>tains of Chriſtian Morality to be contained in them; and chargeth not only himſelf, but an Angel likewiſe with an <hi>Anathema,</hi>
+               <note place="margin">Gal. 1.8. Gal. 6.16. Iſa. 8.20.</note> if he ſhould preach any other Goſpel unto us, than that he hath preached, and pro<g ref="char:EOLhyphen"/>nounceth his bleſſing upon them that <hi>walk according to this rule.</hi> God himſelf is willing to reduce his People from them that <hi>have familiar ſpi<g ref="char:EOLhyphen"/>rits, and from wizards, unto his will and counſel, ſendeth them to the law, and to the teſtimony;</hi> and addeth, <hi>That for them that do not walk accord<g ref="char:EOLhyphen"/>ing to this word,</hi> there is no <hi>morning,</hi> that is, <hi>no life everlaſting;</hi> accord<g ref="char:EOLhyphen"/>ing to the phraſe of the <hi>Pſalmiſt,</hi> when he ſaith,
+<note place="margin">Pſal. 46.5.</note> 
+               <hi>God ſhall help Jeruſalem when the morning appeareth,</hi> that is, <hi>when the day of our ſalvation will be approaching.</hi> This was the reaſon that <hi>John</hi> on his <hi>Revelation</hi> declareth, <hi>If any man ſhall take away from the words of the book of this prophecy,
+<note place="margin">Apoc. 22.19.</note> God ſhall take away his part out of the book of life.</hi> Seeing then that the Apoſtle <hi>Paul</hi> did ſpeak ſo highly in the commendation of Scriptures, as a man that hath not <hi>ſhunned to declare all the counſel of God,
+<note place="margin">Act. 20.27. Act. 26.22.</note> ſaying no other things than thoſe, which Moſes and the Prophets did ſay ſhould come;</hi> I concluded preſently, that there was no other fountain, out of which we could derive the <hi>true Church,</hi> but only out of Scriptures, by reaſon we are <hi>built upon the foundation of the Apoſtles and Prophets,
+<note place="margin">Eph. 2.2.</note> Jeſus Chriſt be<g ref="char:EOLhyphen"/>ing himſelf the chief corner-ſtone.</hi>
+            </p>
+            <p>And I ſaw likewiſe that the Ancient Father <hi>Auſtin,</hi>
+               <note place="margin">L. 3. <hi>cont. Ma. Ari<g ref="char:EOLhyphen"/>an.</hi>
+               </note> did not diſagree with my opinion, when he ſaith, <q>Neither will I alledg the <hi>Nicene,</hi> nor do you alledg the Council of <hi>Arimine,</hi> unto my prejudice. Let matter with matter, cauſe with cauſe, reaſon with reaſon decert by the au<g ref="char:EOLhyphen"/>thority of the Scriptures, which are not belonging only to one party, but impartial witneſſes of both.</q>
+               <note place="margin">Contra Donat.</note> There (that is in the holy Scrip<g ref="char:EOLhyphen"/>tures) as he ſaith ſomewhere elſe, <hi>Let us ſearch after the true Church, and handle our queſtions.</hi>
+            </p>
+            <p>But ſearching more narrowly after the Purity of particular Churches, I found none anſwering ſo exactly the Scriptures as the Proteſtant Churches. Therefore I ſtedfaſtly concluded with my ſelf, as ſoon as God would grant me an opportunity to aſſociate my ſelf in the Prote<g ref="char:EOLhyphen"/>ſtant Church, and reject the <hi>Roman</hi> Idolatry. Which I accordingly have done, and having renounced the <hi>Popiſh</hi> Religion, have adjoyned my ſelf unto the body of our Saviour Chriſt Jeſus, that is, unto the true Proteſtant Church.</p>
+            <p>
+               <pb n="10" facs="tcp:45757:10" rendition="simple:additions"/>
+Whoſe truth I am going to ſhew now as ſhortly as I can, and that by this argument.</p>
+            <p>That Church which doth vindicate the authority of the Scriptures, defends the proprieties of them, and teacheth according to the Scrip<g ref="char:EOLhyphen"/>tures, is a <hi>true Church;</hi> but the Proteſtant Church doth ſo: The Major is firm, and without contradiction: The Minor is to be proved, which I am endeavouring to do. Neither will I be ſo Scripturary, as that I ſhould reject the old Fathers, and the Primitive Councils; I will alledg them likewiſe as bearing witneſs unto truth, which cannot be over<g ref="char:EOLhyphen"/>thrown.</p>
+            <p>As to the firſt, The Proteſtant Church doth vindicate the authority of Scriptures, when ſhe denieth the ſame to depend from the authority of the Church, not ſo much as to us.</p>
+            <p>
+               <hi>Robert Bellarmin</hi> ſeeing that theſe who affirmed without any limitati<g ref="char:EOLhyphen"/>on,
+<note place="margin">
+                  <hi>Bell. de V. D.</hi> l. 1. c. 46.</note> the Divinity of Scriptures doth depend from the authority of the Church, did not ſpeak ſoberly enough, he endeavoured to mollify the Propoſition with this diſtinction, <hi>viz.</hi> that the Scriptures muſt be con<g ref="char:EOLhyphen"/>ſidered, either <hi>in themſelves,</hi> or <hi>in reſpect unto us.</hi> As they are conſider<g ref="char:EOLhyphen"/>ed in the firſt manner, they do not depend from the authority of the Church, but as they are in the ſecond.</p>
+            <p>But as the diſtinction is vain, becauſe every authority is Rela<g ref="char:EOLhyphen"/>tive, and is not ſo much to be conſidered in it ſelf, as in reſpect of the object; ſo likewiſe the ſuppoſition is falſe, <hi>viz.</hi> That the authority of Scriptures, in reſpect, or in relation unto us, doth depend from the Church.</p>
+            <p>But before I come to the demoliſhing of this aſſertion, we will conſi<g ref="char:EOLhyphen"/>der the reaſon why <hi>Papiſts</hi> ſay and believe ſo. And indeed I can find no other beſides this, that they ſeeing themſelves unable for reſiſting the Arguments of the Proteſtants, which are drawn out of the Scrip<g ref="char:EOLhyphen"/>tures, endeavouring to pervert the ſenſe of them, aſſerting, that the ſame dependeth from the interpretation of the Church, and ſo conſequently are conſtrained to affirm, that alſo the authority of Scriptures depend<g ref="char:EOLhyphen"/>eth from the Church; of which Scriptures, nor of the right meaning of them, nothing can be certain without the Tradition of the Church. And by this ſame, they very handſomely tread in the footſteps of the old <hi>Hereticks,</hi> of whom one thus ſpeaks.</p>
+            <p>
+               <hi>The Hereticks, when they come to be argued by the Scriptures, they pre<g ref="char:EOLhyphen"/>ſently fall to the accuſing of them, as if they could not be from or of a ſufficient authority, or not ſo to be underſtood, and of which no certainty can be had without Tradition.</hi> Here is the true Protraicture of our modern <hi>Papiſts.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:45757:10" rendition="simple:additions"/>
+But to the thing it ſelf. We deny the authority of Scriptures to depend any way from the authority of the Church, but only from the holy Spirit, ſpeaking within the Scriptures,
+<note place="margin">2 Pet. 1.21. 2 Tim. 3.16, 17.</note> by reaſon he is the author of them, and ſo he doth endue them with an irrefragable authority: And as Chriſt deſires no teſtimony from any beſides from the Father, ſo likewiſe his word, which he hath been pleaſed to leave upon earth in<g ref="char:EOLhyphen"/>ſtead of his perſon. And as it is very unreaſonable, that the Kings Pro<g ref="char:EOLhyphen"/>clamation ſhould depend from a Crier, or a Rule from a thing that is ruled; or that the Sun ſhould borrow its brightneſs from that Orb or <hi>Vortex</hi> which it is contained in; ſo it is very diſagreeable to affirm, that the Scriptures ſhould depend from the authority of the Church. The Church is a <hi>Candleſtick,</hi> the Word of God is a <hi>Candle,</hi> as our Saviour declareth, <hi>Luke</hi> 8.16. Now as a Candleſtick doth contribute nothing at all to the light of the Candle, ſo neither doth the Church to the autho<g ref="char:EOLhyphen"/>rity of Scriptures. We do not reject the Miniſterial Teſtimony of the Church in that caſe, by reaſon the Church leads us unto the Goſpel, as the <hi>Samaritan</hi> Woman did lead her fellow-citizens to Chriſt, as <hi>Auſtin</hi> ſaith; yet for all that, none of them can be call'd the cauſe of our faith, but an inſtrument.</p>
+            <p>Yet the <hi>Papiſts</hi> do object againſt us, <hi>viz.</hi>
+               <note place="margin">1 Tim. 3.15.</note> That the Church is call'd <hi>the pillar and ground of the truth;</hi> and from thence they bring in this concluſion, that ſhe is the only cauſe, from whom the authority of the Scriptures doth depend.</p>
+            <p>But very fooliſhly; becauſe, firſt, that (I may paſs by the Obſervation of <hi>Camero,</hi> who affirmeth theſe words to belong unto the 16 verſe, by reaſon there is to be found in that verſe a Copulative Particle, which otherwiſe ſhould be to no purpoſe, <hi>&amp;c.</hi>) the Apoſtle doth ſpeak of the Church conſidered as a houſe, and then ſheweth which is the chief<g ref="char:EOLhyphen"/>eſt pillar or ground of the ſame (and indeed, if we ſpeak reaſonably, a houſe cannot be a pillar, but a pillar is in a houſe). It is, ſecondly, to be obſerved, that by this <hi>pillar,</hi> is not to be underſtood an <hi>Archite<g ref="char:EOLhyphen"/>ctonical,</hi> but a <hi>Political</hi> one; not one that ſhould uphold by its ſtrength the authority of Scriptures, but one upon which the Proclamations and Conſtitutions of the Supreme King are affixed.</p>
+            <p>Neither is the exception of <hi>Bellarmin</hi> againſt this diſtinction of any value, <hi>viz.</hi> That by this way the Church may be as well call'd a <hi>Library</hi> as a Pillar; by reaſon we do affirm, that the office of the Church is not only to keep the books (as it is of a Library), but to expoſe the Contents of the ſame to the view of people, and to under-teach them in the way of their Superiors will (which belongs to a pillar).</p>
+            <p>
+               <pb n="12" facs="tcp:45757:11"/>
+The Church then can be an external Motive unto us, that the Scrip<g ref="char:EOLhyphen"/>tures are of divine authority, but cannot perſwade us unto it, by reaſon it is only the propriety, and the buſineſs of the holy Ghoſt, whom the Lord joyneth with his word;
+<note place="margin">Pſ. 59.21.</note> when he ſaith, <hi>My ſpirit, which is upon thee, and my words which I have put in thy mouth, ſhall not depart out of thy mouth,</hi> &amp;c.</p>
+            <p>
+               <hi>Auſtin</hi> ſpeaketh very handſomely to that purpoſe,
+<note place="margin">Lib. de Confeſſ.</note> ſpeaking of the authority of Scripture. <q>But how ſhall I be perſwaded to believe this? <hi>Moſes</hi> indeed did ſay ſo; it is true, he ſaid, but he is gone; and although he ſhould be preſent, and talk <hi>Hebrew</hi> to me, I ſhould not underſtand what he meant: but if he ſhould ſpeak <hi>Latin,</hi> I ſhould underſtand. But by what means ſhould I know that he ſpeaketh truth? Therefore inwardly, inwardly I ſay in the Cabinet of my heart, not the <hi>Greek,</hi> nor the <hi>Hebrew,</hi> nor the <hi>Latin,</hi> neither the <hi>Barbarian</hi> truth; but he that without the ſound of lips, or the noiſe of ſyllables, ſhould tell me he ſpeaketh truth, and I ſhould ſay to this, this man, You ſpeak truth.</q> You may ſee, Chriſtian and impartial Reader, how <hi>Auſtin</hi> did think he could be perſwaded of the authority of Scriptures, not by the autho<g ref="char:EOLhyphen"/>rity of the Church, nor by the perſwaſion of <hi>Moſes</hi> or the Prophets, but by the internal truth, ſpeaking in his heart, <hi>Which is the holy Spi<g ref="char:EOLhyphen"/>rit?</hi>
+            </p>
+            <p>And let them not make an inſtance againſt us, that every one pretends the holy Spirit, by reaſon pretenſion maketh no prejudice to truth. Nei<g ref="char:EOLhyphen"/>ther is the queſtion betwixt us and the <hi>Papiſts,</hi> as betwixt admitting the authority of the Scripture, and denying the ſame, by reaſon both of us do admit the ſame; and then the queſtion ariſeth, how, or by what way we may be perſwaded, that theſe Scriptures which we em<g ref="char:EOLhyphen"/>brace as divine, are not prophane. And if we or they anſwer more agreeably, let every impartial Chriſtian be a judg.</p>
+            <p>We conclude therefore, as this queſtion to be unworthy of a Chriſti<g ref="char:EOLhyphen"/>an man, If the holy Bible be the Word of God; ſo another aſſertion of a <hi>Jeſuit,</hi>
+               <note place="margin">Sambar de fide ortho<g ref="char:EOLhyphen"/>doxa.</note> called <hi>Sambar,</hi> to be very fooliſh, <hi>viz.</hi> that the Proteſtant Churches have no Scriptures. For beſides that he defends this propo<g ref="char:EOLhyphen"/>ſition for no other end, but to eſcape the ſtrength of the arguments deri<g ref="char:EOLhyphen"/>ved out of the Scriptures, likewiſe he confirmeth this propoſition by no other <hi>medius terminus,</hi> or reaſon, but becauſe the Proteſtant Church (ha<g ref="char:EOLhyphen"/>ving no notes of a true Church) is falſe, and ſo ſhe can have no Scrip<g ref="char:EOLhyphen"/>ture, being the Scriptures dependeth from the Church, both in their <hi>ma<g ref="char:EOLhyphen"/>terial,</hi> and in their <hi>formal</hi> part. Whereas both the argument and its probation is falſe, and they fooliſhly, <hi>petunt principium,</hi> take that for grant<g ref="char:EOLhyphen"/>ed, which we utterly deny, <hi>viz.</hi> that the Scriptures and their ſenſe doth
+<pb n="13" facs="tcp:45757:11"/>depend from the authority of the Church, as we did touch this point ſomewhat higher.</p>
+            <p>Moreover, the <hi>Jeſuit</hi> by this aſſertion doth ſhew his deſperate cauſe, by reaſon none of the ancient Fathers did deny the Scriptures to any <hi>He<g ref="char:EOLhyphen"/>retick</hi> (as they ſuppoſe us to be), that they might ſhew his caſe plain; and <hi>Auſtin</hi> ſaith, that the Scriptures are not belonging as proper to one,
+<note place="margin">Aug. lib. 3. contr. Ma. Arian.</note> but that they are common witneſſes of both the ſides. And if we would be ſo rude, we could change the ſcene, and affirm, that the <hi>Papiſts</hi> them<g ref="char:EOLhyphen"/>ſelves have no Scripture, as to the formal part, becauſe we did plainly ſhew a little higher, their Church not only to be falſe and erroneous, but none at all. But being I am not afraid of their arrows, which they can take out of the Scriptures, I will not deny them the Bible.</p>
+            <p>Having thus far ſecured the Sentiment of the Proteſtant Churches, about the authority of Scriptures, I deſcend to the proprieties of them.</p>
+            <p>I affirm therefore, the holy Scriptures to be perfect, as well touch<g ref="char:EOLhyphen"/>ing the perfection of <hi>parts,</hi> as of <hi>degrees,</hi> and thence to be ſufficient to our ſalvation. <hi>The Law of God is perfect,</hi> ſaith <hi>David,</hi>
+               <note place="margin">Pſal. 119.</note> and the ſufficiency of it is ſhown by the Apoſtle in the forementioned words, 2 <hi>Tim.</hi> 3.16. The acceſſion of the New Teſtament to the old maketh no prejudice to the perfection and ſufficiency of Scriptures, becauſe he that declared all the counſel of God, ſpoke nothing other than what <hi>Moſes</hi> did ſay and the Prophets, as we writ before. Hence the old Fathers ſaid very well, <hi>As the New Teſtament is hidden in the old, ſo the Old Teſtament is declared in the new;</hi> neither <hi>(gradus variat ſpeciem)</hi> doth a degree change the nature of things that are of the ſame kind.</p>
+            <p>Neither do we diſpute with the <hi>Papiſts,</hi> of this or the other part of Scriptures, but of the whole Canon, as it is made by the Apoſtles, de<g ref="char:EOLhyphen"/>clared by the ancient Church, and enumerated by <hi>Hierom.</hi>
+               <note place="margin">Hierony. in prol. Gal.</note> They are not therefore to commit a fallacy of diviſion.</p>
+            <p>And as we do juſtly cut off from this perfection and ſufficiency of Scrip<g ref="char:EOLhyphen"/>tures, the books call'd <hi>Apocrypha,</hi> by reaſon they contradict themſelves and the holy Scripture, neither were they found in the <hi>Jewiſh</hi> Church, unto <hi>which were committed the Oracles of God:</hi>
+               <note place="margin">Rom. 3.2.</note> So we reject the di<g ref="char:EOLhyphen"/>ſtinction of the <hi>Papiſts</hi> betwixt the books <hi>Protocanonical</hi> and <hi>Deuteroca<g ref="char:EOLhyphen"/>nonical,</hi> by reaſon a Canon cannot be changed. And for this reaſon we do very little eſteem, <hi>Traditiones non ſcriptas,</hi> not written Traditions; becauſe out of that is written,
+<note place="margin">Joh 20.31 2 Tim. 3.15</note> we may have ſufficient inſtructions for the life-eternal.</p>
+            <p>To refer unto theſe Traditions the ſeveral Orders of Fryers, and the ſheaving of their Crowns, the words of Chriſt,
+<note place="margin">John 16.12.</note> 
+               <hi>I have yet many
+<pb n="14" facs="tcp:45757:12"/>things to ſay unto you, but you cannot bear them now,</hi> is a very great folly. Becauſe if this was the meaning of Chriſt, he could very eaſily have called a Barber, and commanded the heads of thoſe Diſciples to be ſhaven. But may be he could not by reaſon of their baldneſs. Beſides, that Monks,
+<note place="margin">Hieroni<g ref="char:EOLhyphen"/>mus.</note> whoſe duty was to weep, and not to teach, as an old Father ſaith, were not ſhaven for a ſign of their honour and pre-eminence, but for a ſign of their penitence.</p>
+            <p>For the laſt,
+<note place="margin">Pſal. 19.8. Rom. 16.4.</note> the Scriptures are eaſie to be underſtood; <hi>The Com<g ref="char:EOLhyphen"/>mandment of the Lord is pure, enlightning the eyes: and whatſoever things were written aforetime, were written for our learning, that we through patience and comfort of the Scriptures might have hope.</hi> Which could not be, if the Scripture was not eaſie and light. We affirm therefore, that as thoſe things which are abſolutely neceſſary to ſalvation are few, ſo they are plainly ſet down in the Scriptures. But as for other queſti<g ref="char:EOLhyphen"/>ons, I do not deny ſuch things to be found in the Scriptures, that can afford work enough for a human wit. Namely, as one ſaith, The <hi>holy volumes are of ſuch a nature,
+<note place="margin">Chryſoſto<g ref="char:EOLhyphen"/>mus.</note> that as well a lamb may wade in it, as an Ele<g ref="char:EOLhyphen"/>phant ſwim.</hi>
+            </p>
+            <p>Being then, that the holy Scriptures are perſpicuous, as it is evident out of reaſon, teſtimony, and the conſent of the ancient Fathers; there<g ref="char:EOLhyphen"/>fore the Proteſtants proceed very lawfully in attributing <hi>judicium diſ<g ref="char:EOLhyphen"/>cretionis,</hi> or a judgment of diſcretion to every true Chriſtian. So that every believer by the often reading of the Word of God, and by the conferring of one place of Scripture with the other, may interpret the Goſpel,
+<note place="margin">2 Pet. 1.20, 21.</note> becauſe no prophecy of Scripture is of any private interpreta<g ref="char:EOLhyphen"/>tion; <hi>for it came not by the will of man, but by the holy Ghoſt.</hi>
+            </p>
+            <p>As for the Fathers of the ancient Church, and the four Primitive Councils, we imbrace them as interpreters of the holy Scriptures; yea, we affirm likewiſe, that they may bind ſubordinately to Scriptures our conſcience, but not force them to the faith <hi>(ligant, non obligant):</hi> yet we deny whether the Fathers, or the Council, or the <hi>Roman</hi> Pope to be a Judg of the Controverſies about matters of faith,
+<note place="margin">
+                  <hi>Auſtin. Fatetur Andradius contra K<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<g ref="char:EOLhyphen"/>nitium, De<g ref="char:EOLhyphen"/>fenſ. Concil. Triden.</hi> l. 2. <hi>Bellar. ſacra ſcriptura regula decidendi certiſſima tutiſſimaque eſt.</hi> Heb. 4.12.</note> but only the Holy Ghoſt ſpeaking in his Word, or as one ſaith, Chriſt himſelf when he ſpeaketh: <hi>Let Chriſt judg of this controverſie, who although he be abſene in his perſon, yet is preſent in his word.</hi>
+            </p>
+            <p>Hence doth flow, that the Scriptures may be juſtly called a Judg; not proclaiming outwardly the ſentence, but deciding the queſtion as a
+<pb n="15" facs="tcp:45757:12"/>Law, and ſo it may be called a <hi>judex normalis,</hi> a normal Judg, being it is a <hi>diſcerner of the thoughts and intents of the heart.</hi>
+            </p>
+            <p>We did ſhew (as I believe) ſhortly and clearly, that the Proteſtant Churches do vindicate ſufficiently the authority of the holy Scrip<g ref="char:EOLhyphen"/>tures, and derogate nothing at all from their adjuncts and proprieties.</p>
+            <p>Now I will come to the ſecond part of our argument, and ſhew, that the Proteſtants do teach according to the doctrine of the Holy Ghoſt, contained in the Scriptures.</p>
+            <p>I will paſs by theſe common places of Divinity, as touching God, in his Works, Proprieties and Perſons, by reaſon the <hi>Papiſts</hi> do believe the ſame as the Proteſtants, except in ſome preter-fundamental things, which we will have better opportunity to ſpeak of ſomewhat lower.</p>
+            <p>Only this I touch at preſent, that <hi>Jeſuital</hi> definition of the Free will is very falſe and erroneous, <hi>viz.</hi> that it is <hi>Facultas qua poſitis omnibus ad agendum praerequiſitis aliquis poſſit agere &amp; non agere:</hi> A faculty by which, all the requiſites belonging to the doing of a thing, being preſent, a man can nevertheleſs chuſe to do it or no; I ſay it is falſe, becauſe beſides that when the object is preſent, the will, by the determination of the laſt practical judgment of our reaſon, embraces the object without any di<g ref="char:EOLhyphen"/>lation; likewiſe it is impoſſible that a man ſhould change Gods Decree, which is one of the requiſits,
+<note place="margin">Act. 17.28 Pſal. 7.6. Iſa 4.10. Pſal. 8.11.</note> putting a man into a performance of this or another kind of an action; by reaſon, as God himſelf cannot change, ſo neither can his Will, becauſe he ſaith himſelf, <hi>My counſel ſhall ſtand, and I will do all my pleaſure:</hi> and <hi>David, The counſel of the Lord ſtandeth for ever, the thoughts of his heart to all generations.</hi>
+            </p>
+            <p>After all the requiſites to the prodition and betraying of Chriſt were found in <hi>Judas,</hi> as <hi>viz.</hi> the determination of his Will by his Reaſon; the taking of the money, <hi>&amp;c. Judas</hi> could not chuſe but betray Chriſt, by reaſon the higheſt requiſite was preſent, which is the Will of God and his determination, or his hand and his counſel; in order unto which, <hi>the Son of man was of neceſſity to be delivered into the hands of ſinful men,
+<note place="margin">Act. 1.28. Luk. 24.7.</note> and be crucified, and the third day riſe again.</hi> All which could have been changed, if the free-will of <hi>Judas</hi> had been of that condition our <hi>Je<g ref="char:EOLhyphen"/>ſuitical</hi> definition ſpeaks of.</p>
+            <p>The Proteſtants therefore are ſounder in this caſe, as well as in the reſt, becauſe they define the free-will thus; <hi>Arbitrium humanum eſt facul<g ref="char:EOLhyphen"/>tas agendi libere, abſque coactione, &amp; determinatione phyſica ad unum;</hi> that is, The will of a man is a faculty, doing a thing freely, without coaction, or phyſical determination to one.</p>
+            <p>
+               <pb n="16" facs="tcp:45757:13"/>
+Becauſe not every neceſſity taketh away the freedom of our will, but only that which is of coaction, and of phyſical neceſſity; for the free will cannot be forced as to its <hi>actus elicitos,</hi> or internal acts, but <hi>quoad imperatos,</hi> or external; nor can it be determined to one thing only, as the fire is determinated to burning.</p>
+            <p>Therefore it is not free from the Divine determination, nor from the laſt judgment of the practical reaſon, nor in the unregenerate from ſin, unto which although it be determined, yet conſidered ſpecifically it hath freedom, to make a choice betwixt ſin and ſin.</p>
+            <p>So that in an unregenerated man it is only free to ſin, neither can a man by the vertue of the ſame arrive to the doing of any Theological good.
+<note place="margin">1 Cor. 3.5. Col. 2.13. Eph. 2.3. &amp; 5.14. &amp; 2.12. Rom. 14.23.</note> For we are not ſufficient of our ſelves to think any thing as of our ſelves, but our ſufficiency is of God, being we are by nature the chil<g ref="char:EOLhyphen"/>dren of wrath; we are dead without God, and every imagination of the thought of our heart is only evil continually, <hi>Gen.</hi> 6.5. and from our youth, <hi>Cap.</hi> 8.28. And the beſt that any unregenerate man ſeem<g ref="char:EOLhyphen"/>eth to do is but bad, by reaſon it doth not proceed from faith, which qualifieth the work.</p>
+            <p>Juſt then as a <hi>privatione totali non datur regreſſus ad habitum niſi per potentiam infinitam,</hi> from a total privation can be no returning to a ha<g ref="char:EOLhyphen"/>bit, unleſs by the infinite power; ſo likewiſe from ſin (which is <hi>priva<g ref="char:EOLhyphen"/>tio rectitudinis debitae ineſſe,</hi> a want or a privation of the righteouſneſs which ought to be within us), there is no returning to juſtice or righ<g ref="char:EOLhyphen"/>teouſneſs,
+<note place="margin">Joh. 11.43.</note> unleſs God awaken us, and ſpeak to our dead hearts, <hi>Riſe up Lazarus;</hi> unleſs he commandeth the Sun of Righteouſneſs to riſe in our dark hearts as he did in the firſt Creation,
+<note place="margin">Mal. 4.</note> ſaying, <hi>Let there be light, Gen.</hi> 1.</p>
+            <p>And truly becauſe Regeneration according to the phraſe of the holy Scriptures is nothing elſe but a new creation;
+<note place="margin">Eph. 2.10.</note> 
+               <hi>For we are his workman<g ref="char:EOLhyphen"/>ſhip created in Chriſt Jeſus unto good works,</hi> ſaith <hi>Paul;</hi> and elſewhere, <hi>In Chriſt Jeſus neither circumciſion availeth any thing,
+<note place="margin">Gal. 6.15.</note> nor uncircumciſion, but a new creature;</hi> confer <hi>Gal.</hi> 6.15. <hi>cum Col.</hi> 3.10. Hence <hi>David</hi> prays, <hi>God ſhould create a clean heart in him;</hi> it cannot be attributed to any elſe but only to the Infinite power,
+<note place="margin">Phil. 2.13.</note> which is in God, who <hi>worketh in us both to will and to do, according to his good pleaſure.</hi>
+            </p>
+            <p>Whatever good works therefore are or were to be found in Heathens, are not without reaſon call'd by <hi>Auſtin,
+<note place="margin">
+                     <hi>Auguſt.</hi> Mat. 5.45.</note> Splendida peccata,</hi> ſhining ſins. I do not deny, they may do ſomewhat good morally, by the general influence of the Almighty, according to <hi>Paul</hi>'s ſaying, <hi>The Gentiles do by nature the things contained in the Law;</hi>
+               <note place="margin">Rom. 2.19.</note> yet they can do no good as
+<pb n="17" facs="tcp:45757:13"/>it is conſidered Theologically, becauſe they are deſtitute of faith, which purifieth the heart, and of a right end of their doing,
+<note place="margin">Act. 15 9.</note> which is Gods glory. Being they do not abſolutely ſhew this or the t'other ſin, but for that they may ſhew themſelves before people, as <hi>Socrates</hi> did ſhun Intem<g ref="char:EOLhyphen"/>perance, for to gain by it vain-glory.</p>
+            <p>Hence it floweth that Juſtification, Sanctification, and the like, are not ours but Gods; ſo that when God confers upon us as juſtified and ſanctified the eternal glory, he may be well ſaid,
+<note place="margin">Auguſt.</note> to crown with reward his own gifts, and not our merits.</p>
+            <p>As to Juſtification which we firſt intend to ſpeak of, it is twofold, active and paſſive. Or elſe it is to be conſidered, either in reſpect of <hi>God juſti<g ref="char:EOLhyphen"/>fying,</hi> or in <hi>reſpect of the man juſtified.</hi> In the firſt reſpect it is nothing elſe but an outward abſolution of a ſinner, and a proclamation made by God of a man, that he is reputed juſt for the merits and ſatisfaction of Chriſt. Hence <hi>Paul</hi> ſaith, <hi>That God juſtifieth the ungodly,</hi> Rom. 4.5.
+<note place="margin">Rom. 4.5. Rom. 3.24.</note> 
+               <hi>By his Grace through the redemption that is in Jeſus Chriſt,</hi> Rom. 3.24. God then ſo juſtifying maketh no phyfical immutation or change in a ſinner, as the Papiſts do ſay, who would have this juſtification of God to be of that ſame nature as their Tranſubſtantiation is, in which one thing is changed into another, that is, that God juſtifying doth not proceed as a Judg at the Bar, pronouncing one innocent, but as making by a phyſical immutation a juſt man out of an unjuſt, as Chriſt did turn water into wine. To prove which opinion <hi>Bellarmine, Becanus</hi> and the reſt of the Jeſuits did much labour, but without any ſucceſs. They produce nothing out of the Scriptures which is not to be referred to Sanctification, and ſo they commit a great fault of <hi>ignoratio elenchi,</hi> and their argu<g ref="char:EOLhyphen"/>ments framed from reaſon are ſo unreaſonable that they are not worth the while of refutation. The ſtrongeſt of them which I intend to alledg, is taken from the Word it ſelf. They ſay,</p>
+            <p>
+               <hi>Juſtificure nihil aliud eſt ex vocis etymologia quam juſtum facere,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> to ju<g ref="char:EOLhyphen"/>ſtifie is nothing elſe, but only to make juſt and righteous, becauſe it is compounded <hi>ex juſtus &amp; facio;</hi> and the reſt of ſuch words as are com<g ref="char:EOLhyphen"/>poſed with the word <hi>facio</hi> are of the ſame ſignification, as <hi>glorificare, ſan<g ref="char:EOLhyphen"/>ctificare,</hi> to ſanctifie, to glorifie, which do not ſignifie to pronounce one holy or glorious, but to make one ſuch and of that nature; and there<g ref="char:EOLhyphen"/>fore <hi>juſtificate</hi> to juſtifie, muſt not ſignifie to pronounce one juſt who is unjuſt in himſelf but to make one righteous.</p>
+            <p>But I hope they will not prove themſelves better Grammarians than they are Divines. I anſwer therefore:</p>
+            <p n="1">1. The ſenſe and the right meaning of a word in matters Divine, is
+<pb n="18" facs="tcp:45757:14"/>not to be taken out of <hi>Calepin,</hi> but out of the Word of God, which is the rule of our faith. Now out of the Scriptures it is plain, as it is de<g ref="char:EOLhyphen"/>monſtrated by many, that Juſtification is every where taken <hi>in ſenſu fo<g ref="char:EOLhyphen"/>renſi: Qui juſtificat impium &amp; condemnat juſtum ambo ſunt abominationi Jehovae;</hi> he that juſtifieth an unjuſt man, and condemneth the juſt, <hi>they are both an abomination unto the Lord,</hi> faith <hi>Solomon.</hi> Here the juſtificati<g ref="char:EOLhyphen"/>on of an unjuſt is oppoſed to a condemnation of a godly man, and ſo in all other places the word <hi>Juſtification</hi> is taken.</p>
+            <p n="2">2. If this ſhould be the meaning of the word, then there ſhould be no diſtinction betwixt Juſtification and Sanctification, as we find it to the contrary,
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ev. 22.11 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 8.30</note> 
+               <hi>Rev.</hi> 22.11. <hi>He that is righteous let him be righteous ſtill, and he that is holy let him be holy ſtill:</hi> and ſo <hi>Rom.</hi> 8.30. <hi>And whom he juſtified, them he alſo glorified:</hi> where in the word <hi>glorified</hi> is compre<g ref="char:EOLhyphen"/>hended Sanctification, <hi>Glorificatio inchoata, velue glorificatio eſt ſanctifi<g ref="char:EOLhyphen"/>catio conſummata,</hi> an inchoated glorifying, as Glorification is a conſum<g ref="char:EOLhyphen"/>mated ſanctifying.</p>
+            <p n="3">3. And then this compoſition with the word <hi>facio</hi> doth not always ſignifie an internal immutation in that thing unto which ſuch a word is attributed;
+<note place="margin">Luk. 1.46.</note> as we may ſee in the Song of the bleſſed Virgin <hi>Mary,</hi> where ſhe ſaith, <hi>Magnificat anima mea Dominum, My ſoul doth magnifie the Lord:</hi> where <hi>Magnificat</hi> is compounded out of the word <hi>magnus &amp; fa<g ref="char:EOLhyphen"/>cio.</hi> Now let them put their heads together, and if they can prove any way that the bleſſed Mother by her magnifying the Lord, made in him an inward change, we will allow that God by juſtifying us, maketh an inward mutation in us.</p>
+            <q>Ante vero leves paſcentur in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here cervi.</q>
+            <p>So much concerning the Juſtification called active, now we will deſcend to the paſſive, or as it is conſidered in reſpect of the man juſtified. And ſo conſidered it is nothing elſe but an aſſurance of our righteouſneſs in Chriſt, and by the imputation of his merits which we receive and apply to our ſelves by faith,
+<note place="margin">Rom. 3.25, 26.</note> 
+               <hi>Rom.</hi> 3.25, 26.</p>
+            <p>Hence we ſee the cauſe meritorious of our Juſtification to be the me<g ref="char:EOLhyphen"/>rits of Chriſt, as we ſhewed it a little before, and <hi>the hand</hi> by which we apply this ſatisfaction of our Saviour, <hi>or the inſtrumental cauſe,</hi> to be faith;
+<note place="margin">Rom. 5.28.</note> 
+               <hi>Therefore</hi> (ſaith <hi>Paul</hi>) <hi>we conclude that a man is juſtified by faith, without the deeds of the law.</hi>
+            </p>
+            <p>It is as plain in the holy Word of God, as that the cauſe of the day is the Sun, that we are only juſtified by faith, <hi>Gratia ſalvati eſtis per
+<pb n="19" facs="tcp:45757:14"/>fidem: By grace are ye ſaved through faith, and that not of your ſelves,
+<note place="margin">Eph. 2.8.</note> it is the gift of God.</hi> So that I will not inſiſt upon this matter any lon<g ref="char:EOLhyphen"/>ger,
+<note place="margin">Rom. 3.20</note> and therefore immediately conclude with the Apoſtle againſt the Popiſh Creed, <hi>That by the deeds of the Law there ſhall no fleſh be juſtified in his ſight; for by the law is the knowledg of ſin.</hi> There is therefore no juſtification <hi>in the ſight of God</hi> by our works, but only by faith, which applieth the <hi>Panacea</hi> of ſalvation unto our dead hearts, and makes us to live in him, and him in us.</p>
+            <p>We are not ſo unreaſonable as to ſeparate works from our faith, nevertheleſs we affirm, that it is faith only that juſtifieth: that which ſees is only an eye, that which weighs is only an arm, nevertheleſs, nei<g ref="char:EOLhyphen"/>ther of them can either ſee or weigh, unleſs they be annexed to the human body; ſo although faith is ſaid to juſtifie only, the meaning is not that it is ſeparated from the good works.</p>
+            <p>The holy Apoſtle <hi>James</hi> ſaith,
+<note place="margin">Jam. 2.24.</note> 
+               <hi>We are juſtified by works and not by faith only:</hi> It is true, but he underſtands either the juſtification before men, as we may ſee it out of <hi>Jam.</hi> 2.18. <hi>Shew me thy faith by thy works,</hi> or elſe the confirmation of the inward faith by the outward doings, or elſe he uſes a kind of a <hi>Metonymia effecti;</hi> ſo that he may underſtand by the faith and works, a working-faith, which he ſeemeth to inſinuate in the fore-mentioned place, <hi>Ye ſee then how that by works a man is juſtified,
+<note place="margin">
+                     <hi>Ibid.</hi> Jam. 2.17.</note> and not by faith only;</hi> that is not by a bare faith, which <hi>if it hath not works is dead being alone,</hi> but by a living faith, which ſhews its good<g ref="char:EOLhyphen"/>neſs by works.</p>
+            <p>Therefore we are not juſtified by works, but as I ſaid by faith, and every one who looks into himſelf and his weakneſs muſt utter the Con<g ref="char:EOLhyphen"/>feſſion of <hi>Bellarmine,
+<note place="margin">Bellar. <hi>de bon. oper.</hi>
+                  </note> Propter humanae vitae fragilitatem &amp; propriae juſti<g ref="char:EOLhyphen"/>tiae incertitudinem, tutiſſimum eſt in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſola Dei miſericordia ſpem collocare.</hi>
+            </p>
+            <p>
+               <hi>For the ſake of the frailty of human life, and the uncertainty of our own righteouſneſs, it is the moſt ſecure way to relye upon the only mercy of God.</hi>
+            </p>
+            <p>Conſider, kind and civil Reader, the words of this Cardinal, who (as I can ſhew if neceſſity requires) at the end of the greateſt Controverſies which are handled betwixt us and the <hi>Romaniſts,</hi> yields to the truth, and is more (though an <hi>Italian</hi>) a Proteſtant than a Papiſt.</p>
+            <p>So then we have by the grace of God ſhewn Juſtification, as in re<g ref="char:EOLhyphen"/>lation to God, to be a forenſick pronunciation of the righteouſneſs of a ſinner; and the paſſive one to be only by faith, and a living faith, which applys to her the merits of our Saviour.</p>
+            <p>
+               <pb n="20" facs="tcp:45757:15"/>
+As to Sanctification we will not ſpeak any thing of it, by reaſon the <hi>Papiſts</hi> do not diſpute much againſt the Proteſtants in this matter, only I utterly deny theſe works which we do, to be meritorious, which are con<g ref="char:EOLhyphen"/>ducing and neceſſary to our ſalvation, <hi>neceſſitate medit,</hi> as a means by which we ſhould arrive to everlaſting ſalvation. <hi>Bernhard</hi> ſaith very handſome<g ref="char:EOLhyphen"/>ly of them,
+<note place="margin">Bernhard.</note> 
+               <hi>Opera bona ſunt via ad regnum, non cauſa regnandi.</hi> Good Works are a way to Heaven, but not the cauſe of it. Neither doth the diſtinction of the <hi>Papiſts</hi> betwixt the works <hi>de congruo</hi> and <hi>de condigno,</hi> mitigate their aſſertion. For beſides, that the congruency of Gods reward for our works conſiſts only in his own pleaſure, <hi>Fear not little flock, for it is your Fathers good pleaſure to give you the Kingdom.</hi>
+               <note place="margin">Luk. 12.32,</note> Likewiſe (which I always admired) they have found no other place out of the Scriptures, or in them, for the aſſerting the condignity (or meritoriouſneſs as it is conſidered in it ſelf) of good works, beſides this place, which doth con<g ref="char:EOLhyphen"/>tradict them to their faces: <hi>Non ſunt condignae paſsiones hujus temporis, gloriae in nobis revelandae:</hi> This is the only place where the word <hi>con<g ref="char:EOLhyphen"/>dignae</hi> is to be found.</p>
+            <p>
+               <hi>Ex ungue leonem:</hi> It is enough to give a ſmall portraiture of truth, becauſe Wiſdom which hath many ſons can be juſtified by them.</p>
+            <p>I will go further, and ſhew how the Proteſtant Church teacheth well of the Sacraments that are <hi>ſeals of the righteouſneſs of faith,</hi>
+               <note place="margin">Rom. 4.11</note> and give a ſhort view of the <hi>Papiſts</hi> Errors. As touching Baptiſm, both of the parties confeſſeth the ſame to be a Sacrament of Initiation, by which we are implanted <hi>in fide parentum,</hi> (which I hold) in the faith of our Parents, into the Church, which is the Body of Chriſt.</p>
+            <p>But falſly do the <hi>Papiſts</hi> affirm, that, firſt, it doth work <hi>ex opere ope<g ref="char:EOLhyphen"/>rate,</hi> by its own vertue, in order to our Regeneration, and the taking away of the Original ſin; not only becauſe a thing corporal and out<g ref="char:EOLhyphen"/>ward can have no influence into things ſpiritual, as to their amendment, but all proceeds from God only; <hi>Omne bonum donum, &amp; omnis perfecta Donatio deſcendit a patre luminum,</hi> ſaith <hi>James.</hi> But becauſe a ſign of the Covenant cannot contribute the things in it comprehended; neither is it apparent by the effect, by reaſon thoſe that have been baptized, are, and have been ſubject to everlaſting damnation, and have fallen from that former Illumination, of which ſpeaketh the Apoſtle, <hi>Heb.</hi> 6.4. And if this Sacrament ſhould work <hi>ex opere operato,</hi>
+               <note place="margin">Heb. 6.4. Rom. 4.9, 10.</note> Grace, or Regeneration, <hi>&amp;c.</hi> Surely <hi>Abraham</hi> could not have been as he was counted, <hi>righteous by faith in uncircumciſion?</hi> Moreover, in the times Primitive, and eſpe<g ref="char:EOLhyphen"/>cially as to them that were baptized being at age, Faith was required before the ſeal of Righteouſneſs was ſtamp'd upon their ſouls and conſci<g ref="char:EOLhyphen"/>ences.
+<pb n="21" facs="tcp:45757:15"/>Now, being that faith is a cauſe of other vertues and graces, and hath adjoyned to it ſelf that great work of Repentance; it muſt needs follow, that the Apoſtle requiring faith (as to the aged) did ſuppoſe in them other graces, not thinking that the ſame ſhould be conferred up<g ref="char:EOLhyphen"/>on them by the Baptiſm, but rather ſealed and confirmed: Yea, becauſe the Sacrament of Baptiſm is a ſeal of the Righteouſneſs of faith, and not a thing working out by its internal Power, Faith and Regeneration. This ſame reaſon hath moved <hi>Auſtin,</hi> and other of the ancient Fathers, to affirm, that Children are baptized either <hi>in fide parentum,</hi> in the faith of their parents, if faithful Chriſtians; or elſe <hi>in fide Eccleſiae,</hi> in the faith of the Church, <hi>viz.</hi> if their parents be unknown, or Infidels; becauſe they were perſwaded that faith is required before baptiſm, rather than conferred by it. So that we think, that in theſe Children which are ele<g ref="char:EOLhyphen"/>cted, there is an operation of the Holy Ghoſt from the beginning; which although not ſenſibly, yet efficaciouſly worketh upon their tender hearts and minds: and if it doth not work in them ſubjectively ſome kind of faith, or elſe an actual faith; yet it objectively applieth the benefits of Chriſt, which are otherwiſe received by an actual faith.</p>
+            <p>Now that no body ſhould think we do charge falſly our Adverſaries, the <hi>Papiſts,</hi> with this aſſertion; I will ſhew the Courteous Reader the reaſon why they do aſſert thus, and then evince the ſame out of another cuſtom of theirs in this holy Sacrament.</p>
+            <p>As to the reaſon why? it is this: Becauſe they ſay, that Children dying without being baptized, cannot be ſaved, but are in a <hi>limbus in<g ref="char:EOLhyphen"/>fantum,</hi> a kind of a hole prepared for Children, where they ſuffer <hi>paenam damni, ſed non paenam ſenſus;</hi> that is, they are deprived only from the Viſion of God, but are not ſubject to any ſenſible torment. If then their election, which is unchangeable,
+<note place="margin">Act. 2.39.</note> and the being under the Covenant of Grace, which as well belongeth to them as their Parents, cannot ſave them, becauſe of their not being baptized: Surely baptiſm, which ma<g ref="char:EOLhyphen"/>keth them able to demand Heaven, muſt work theſe graces by its inter<g ref="char:EOLhyphen"/>nal vertue, by which they may arrive to the eternal happineſs.</p>
+            <p n="2">2. They ſay none can be ſaved without the Church, and none can be counted as a Member of it, unleſs he be baptized. So then, if the bap<g ref="char:EOLhyphen"/>tiſm only maketh us Members of the Church, without which we cannot be ſaved; Baptiſm likewiſe muſt operate, by its internal vertue, thoſe graces by which we are ſaved.</p>
+            <p>As to the cuſtom in ſome particulars, it is this: They think the holy Baptiſm to be ſo abſolutely neceſſary to ſalvation, that they in caſe of neceſſity do approve the baptiſm of Women, if they only obſerve the
+<pb n="22" facs="tcp:45757:16"/>form of the baptiſm. Which evinces, that they think baptiſm to work as we ſaid formerly, <hi>ex opere operato.</hi> Having ſhewed the truth of our charge laid unto them, I will ſhew with one argument the falſneſs of them both.</p>
+            <p>As to the firſt; That not all Children that die without baptiſm are to be deprived of the beatifical Viſion,
+<note place="margin">2 Sam. 12.18, 23.</note> is as ſure, as that <hi>David,</hi> who was ſaved, was to go after his death to his child, which was dead with<g ref="char:EOLhyphen"/>out circumciſion; inſtead of which baptiſm ſucceeded, as we may infer out of <hi>Col.</hi>
+               <note place="margin">Col. 2.11, 12. Act. 2.39.</note> 2.11, 12. It is as fure, as that the promiſe of everlaſting ſalva<g ref="char:EOLhyphen"/>tion belongeth to the Children; which argument is to be preſſed as well againſt <hi>Anabaptiſts,</hi> denying the ſeal to the Children, unto whom be<g ref="char:EOLhyphen"/>longeth the promiſe; (for which belonging of the promiſe, <hi>Peter</hi> was wil<g ref="char:EOLhyphen"/>ling to confer Baptiſm upon ſome Converts, as we may ſee out of the fore-mentioned place,
+<note place="margin">Act. 2.38, 39.</note> 
+               <hi>Act.</hi> 2.38, 39.) as againſt the <hi>Papiſts</hi> denying to the Children (albeit they be under the promiſe, and the Covenant of Grace) dying without being baptized, the life everlaſting; by reaſon he that is in the Covenant of Grace, or under the promiſes, is in Chriſt; he that is in Chriſt,
+<note place="margin">Eph. 2.12. Act. 4.</note> muſt neceſſarily be ſaved; Therefore he that is under the promiſe of life, or in the Covenant of Grace (as Children are), muſt neceſſarily be ſaved.</p>
+            <p>But they have an argument againſt us,
+<label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label>
+               <hi>Verily I ſay unto you, except a man he born of water,
+<note place="margin">Joh. 3.6.</note> and of the ſpirit, he cannot enter into the kingdom of God.</hi> Out of which words they conclude, that baptiſm is of that effi<g ref="char:EOLhyphen"/>cacy, that none can be ſaved without it.</p>
+            <p>But I anſwer.
+<label type="milestone">
+                  <seg type="milestoneunit">Reſp. </seg>
+               </label> It is a vain exception, becauſe by this water and ſpirit, is nothing elſe to be underſtood, but the Holy Ghoſt himſelf, who is of the ſame nature as water is, as to the ablution of our ſins. Another like expreſſion is to be found in the Goſpel of <hi>Matthew,
+<note place="margin">Mat. 3.11.</note> He ſhall bap<g ref="char:EOLhyphen"/>tize you with the Holy Ghoſt and fire;</hi> that is, the Holy Ghoſt, who is of a fiery nature, in cleanſing as Gold ſeven times refined in the fire. There<g ref="char:EOLhyphen"/>fore ſuch expreſſions are metaphorical, or figurative and improper, and are call'd <hi>Hendiadis:</hi> a like expreſſion there is in <hi>Virgil,</hi>
+               <q>Poculis libamus &amp; auro.
+<note place="margin">Virgil.</note>
+               </q> We drink out of Cups of Gold,
+<note place="margin">Aeneid. 1. <hi>Arma vi<g ref="char:EOLhyphen"/>rum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> cano, id eſt, arma<g ref="char:EOLhyphen"/>tum virum.</hi> Joh. 3.3.</note> that is, out of golden Cups; ſo that to be born of water and ſpirit, is nothing elſe, but to be born out of a watery, or out of a fiery ſpirit. Hence what Chriſt ſaith here, by way of <hi>Hendiadis,</hi> he expreſſeth the ſame in its own proper words, a little higher, <hi>Except a man be born again, he cannot ſee the kingdom of God.</hi>
+               <pb n="23" facs="tcp:45757:16"/>So that hence we may inter by the authority and explaining of our Sa<g ref="char:EOLhyphen"/>viour himſelf, in this place to be underſtood only the ſpiritual Regene<g ref="char:EOLhyphen"/>ration, and not the external Ablution of the water.</p>
+            <p>As to the ſecond, we do utterly deny the Baptiſm performed by Wo<g ref="char:EOLhyphen"/>men to be lawful and irrevocable.</p>
+            <p>They have nothing elſe to alledg, only the example of <hi>Zipporah,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> that circumciſed her Son;
+<note place="margin">Exod. 4.25, 26.</note> and ſo they think a Woman may as lawfully bap<g ref="char:EOLhyphen"/>tize, as circumciſe.</p>
+            <p>I will not anſwer according to the uſual anſwer of ſome Divines,
+<label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> that <hi>Zipporah</hi> ſinned in doing ſo; becauſe I believe the Almighty God doth never bleſs men for ſin, as he did <hi>Moſes,</hi> for that doing of <hi>Zippora.</hi> But I anſwer thus; that in the Old Teſtament circumciſion was indiffer<g ref="char:EOLhyphen"/>ently performed by any, byreaſon it was not ſo ſtrictly joyned with the office of Preaching, as Baptiſm is in the New Teſtament, made ſo by Chriſt himſelf; <hi>Go and teach all Nations, baptizing them,</hi> &amp;c.
+<note place="margin">Mat 28.19</note> So that now it is unlawful for any one to adminiſter the holy Baptiſm, beſides him who is ordained for Preaching.</p>
+            <p>Now we are minded to ſpeak of the ſecond Sacrament (for we will not regard their aſſertion of the reſt of their five Sacraments, which have no ground neither in Scriptures, nor in the ancient Fathers), which is the Lords-Supper.</p>
+            <p>This according to the true Doctrine, is nothing elſe, but only a viſible ſign of an inviſible grace, by which viſible ſign, that is, Bread and Wine,
+<note place="margin">1 Cor. 10.16, 17.</note> we receive the body and blood of our Saviour, as a ſeal of the Cove<g ref="char:EOLhyphen"/>nant of Grace, tending unto our ſalvation. We do not deny the body and blood of Chriſt to be really preſent in this holy Sacrament: But we deny the ſame,</p>
+            <p n="1">1. To be there corporally, becauſe the body of our Saviour being circumſcriptive, and in heavens, is not everywhere: And then,</p>
+            <p n="2">2. We deny this Supper of our Lord to be a ſacrifice for the living and the dead. Which is my greateſt point in this caſe, and I accord<g ref="char:EOLhyphen"/>ingly will endeavour to declare it.</p>
+            <p>As to the firſt, the <hi>Papiſts</hi> do urge very much their <hi>Tranſubſtanti<g ref="char:EOLhyphen"/>ation.</hi> It is a queſtion, and a Controverſie very well known, but I hope to add ſome light to it: I go on. By this Tranſubſtantiation, they underſtand nothing elſe, but the corporal preſence of the body and blood of our Saviour, under the accidents of Bread and Wine? So that they think the ſubſtance of thoſe Elements to be turned into the firſt nothing, out of which they were formerly created, and the accidents only to remain, which acts in the ſenſes of our ſight, feeling and taſte.</p>
+            <p>
+               <pb n="24" facs="tcp:45757:17"/>
+This is the deſcription or <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Tranſubſtantiation, upon which we ſay the ſame to be quite falſe and erroneous.</p>
+            <p n="1">1. The name of it, nor the matter in it contained is not to be found in Scriptures,
+<note place="margin">1 Cor. 10.17.</note> by reaſon after the conſecration it is ſtill called bread, of which we are partakers; where not only we are ſaid to be partakers of bread, which could not be if it was annihilated, but likewiſe no <hi>Pa<g ref="char:EOLhyphen"/>piſt</hi> will admit this Sacrament to be call'd bread after Conſecration, which nevertheleſs the Scripture doth.</p>
+            <p n="2">2. The name of it is newly come up, nor was it ever heard before the Council of <hi>Lateran,</hi> when <hi>Berengarius</hi> was forced to recant the truth, and fall into a moſt abominable error, as to ſay that Chriſts body was eaten and bitten with teeth, &amp;c. <hi>Atteri dentibus &amp; in alvum demitti.</hi>
+            </p>
+            <p n="3">3. It is a moſt improper name to a thing, yea it is as much to be called Tranſubſtantiation, as creation could be called annihilating; becauſe Tranſubſtantiation is nothing elſe but a mutation of one ſubſtance into an<g ref="char:EOLhyphen"/>other, as in <hi>Cana</hi> of <hi>Galilee</hi> Wine was turned into water: but here the <hi>Papists</hi> ſay that one ſubſtance doth not become another, but that the one (which is the bread and wine) is annihilated, and the other (which is the body and blood of Chriſt) is induced under the acci<g ref="char:EOLhyphen"/>dents or ſpecies of bread and wine (although here likewiſe they have a thouſand diſtinctions about the introduction, or adduction of the body of Chriſt underneath the accidents, which I will paſs over); ſo that by this way it muſt be call'd <hi>annihilation of one, and introduction of another ſubſtance,</hi> rather than <hi>Tranſubſtantiation;</hi> but becauſe the thing is falſe, the name muſt be of that ſame nature.</p>
+            <q>Conveniunt rebus nomina ſaepe ſuis.</q>
+            <p n="4">4. There can be no Tranſubſtantiation where the thing that is given, in the diſtribution of the Sacrament, is call'd by the ancients a ſign, a fi<g ref="char:EOLhyphen"/>gure, becauſe none can be a ſign or a figure of himſelf; as Chriſt ſhould be, if he ſhould be given as preſent corporally or bodily under the ac<g ref="char:EOLhyphen"/>cidents.
+<note place="margin">Auſtin,</note> Now <hi>Auſtin</hi> ſaith, <hi>Non dubitavit Dominus dicere, hoc est corpus meum, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um daret figuram corporis ſui.</hi> The Lord was pleaſed to ſay, <hi>This is my body,</hi> when he did give the figure or the ſign of it. And the moſt of the ancient Fathers do interpret the words in this ſenſe, as we will ſhew God willing in another Treatiſe, purpoſely handling of this matter. Scripture, as we ſhewed ſomewhat higher, calls it, <hi>Sigillum,</hi> or <hi>ſignaculum juſtitiae fidei,</hi> a ſeal of the Righteouſneſs of Faith; and what is a ſeal of a thing, cannot be the thing it ſelf.</p>
+            <p>
+               <pb n="25" facs="tcp:45757:17"/>
+The Objections that the <hi>Papiſts</hi> have againſt <hi>Proteſtants</hi> as to their Tranſubſtantiation out of the Scriptures, as well as out of the ancient Fathers, we will not touch them here, referring them to that Trea<g ref="char:EOLhyphen"/>tiſe which we ſpoke of before, where it ſhall be moſt fully handled of. Only I cannot paſs this Objection by, which I did read in one <hi>Anonymus Jeſuit</hi> framed againſt our laſt reaſon,
+<note place="margin">Jeſuita Anonymus.</note> namely that nothing can be a ſign of it ſelf. He maketh this inſtance, That ſomething can be a ſign of it ſelf, as <hi>David</hi> could had been a ſign of himſelf, as figh<g ref="char:EOLhyphen"/>ting with <hi>Goliah</hi> in the Valley of <hi>Terebinth,</hi> if he had preſented him<g ref="char:EOLhyphen"/>ſelf upon the Theater.</p>
+            <p>But I anſwer, 1. <hi>David</hi> had not been a ſign of himſelf but of his actions he performed at the time of the Combate. 2. If <hi>David</hi> had been ſewed up in a Sack, or elſe had lain upon the Theater being covered with a skin of an aſs, (as they ſay Chriſt is covered with the <hi>ſpecies</hi> of bread and wine) ſo that no body could have ſeen him, I do not underſtand how he could have been a ſign of himſelf, or of his actions either, and ſhew'd how valiantly he had fought with <hi>Goliah.</hi>
+            </p>
+            <p>I will omit here, that this Sacrament was inſtituted for the remem<g ref="char:EOLhyphen"/>brance of Chriſt Man, and that the remembrance is only of a thing abſent, as likewiſe many of their exceptions againſt us, becauſe I re<g ref="char:EOLhyphen"/>fer all this to the aforeſaid Treatiſe.</p>
+            <p>Only I will ſhew my ſecond Propoſition, which is, that the Supper of the Lord is no ſacrifice for the living and the dead. And this as ſhort as ever I can by this general argument.</p>
+            <p>Where there is no Prieſt, no Altar, no proper Hoaſt, there is no proper ſacrifice for ſin.</p>
+            <p>In the New Teſtament there is no ſuch thing.</p>
+            <p>The Major is very true and plain. They <hi>(Papiſts)</hi> allow their ſa<g ref="char:EOLhyphen"/>crifice to be proper; if ſo, ſhe muſt have a proper altar, a proper Prieſt, a proper Hoaſt, becauſe the nature of Relatives is ſuch that they do in general relate to one another, and ſo ſaith <hi>Bellarmine,
+<note place="margin">Bellar. <hi>de Miſſa. lib.</hi> 1. <hi>c.</hi> 16. <hi>De cuten ſan. lib.</hi> 3. <hi>c.</hi> 4. <hi>De Miſſ. lib.</hi> 1. <hi>c.</hi> 14.</note> Altaria non conſueverunt erigi niſi ad ſacrificia proprie dicta:</hi> The altars uſe not to be erected, unleſs for ſacrifices properly ſo called. And again, <hi>Sine altari non poteſt ſacrificari:</hi> Without an altar there can be no ſacrifice. And again, <hi>Nunquam altare proprie dictum erigitur, niſi ad ſacrificia proprie dicta:</hi> An altar properly ſo called, is never ere<g ref="char:EOLhyphen"/>cted but for ſacrifices properly ſo called.</p>
+            <p>If we therefore evince that there is no proper altar, nor Prieſt, nor
+<pb n="26" facs="tcp:45757:18"/>ſacrifice in the New Teſtament (that is, beſides Chriſt himſelf.) We ſhall ſhew our concluſion evidently that there is no ſacrifice neither.</p>
+            <p>As to the <hi>Altar</hi> there is no material altar to be ſound in the holy Scriptures, as one that ſhould be uſed in the New Teſtament. Chriſt the inſtituter of this holy Sacrament,
+<note place="margin">Luk. 22.21. 1 Cor. 10.21. Bellar. <hi>de miſſa. lib.</hi> 1. <hi>cap.</hi> 17.</note> celebrated the ſame <hi>on the Table:</hi> the Apoſtle <hi>Paul</hi> calls it a <hi>Lords-Table,</hi> there is no mention made of an altar which had been done if it had been in uſe; hence the great <hi>Bellarmine, Ap ſtoli non utebantur nominibus ſacerdotii ſacrificii, alta<g ref="char:EOLhyphen"/>ris:</hi> The Apoſtles did not uſe the name of Prieſthood, ſacrifice, altar, as knowing well that there could be none after the material ſacrifices were ſealed up.</p>
+            <p>But the <hi>Papiſts</hi> object out of <hi>Hebr.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> 13.10. <hi>We have an altar where<g ref="char:EOLhyphen"/>of they have no right to eat,
+<note place="margin">Heb. 13.10.</note> who ſerve the tabernacle.</hi> I anſwer that it is an <hi>ignoratio elenchi.</hi> We do not deny an improper altar of which this Text ſpeaketh, but we deny a proper and a material altar. That this Text ſpeaketh improperly, the words themſelves ſhew, <hi>viz. We have an altar whereof to eat &amp;c.</hi> Can any body eat a material altar; and that this altar is an inviſible and an improper one the ſacri<g ref="char:EOLhyphen"/>fice that the Apoſtle would have to be offered upon it doth plainly evince it,
+<note place="margin">Heb. 13.15</note> 
+               <hi>By him therefore let us offer the ſacrifice of praiſe to God continually, that is, the fruit of our lips, giving thanks to his name.</hi> So the old Fathers likewiſe;
+<note place="margin">Ambroſ. <hi>in Epiſt. ad Hebr.</hi> Bernh. <hi>in ſer. om. S. Ser.</hi> 4. Nazian. <hi>Orat.</hi> 24. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell. <hi>l.</hi> 1. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>miſſ. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ap.</hi> 14. Dan. 9.</note> 
+               <hi>Ambroſe</hi> ſaith, <hi>Nihil horum eſt viſibile ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſacerdos, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſacrificium, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> altare:</hi> Nothing of theſe is viſible, nei<g ref="char:EOLhyphen"/>ther the Prieſt, nor the ſacrifice, nor the altar. <hi>Bernhard, Altare nihil aliud arbitror eſſe quam corpus Domini:</hi> I think the altar to be nothing elſe but the body of the Lord. <hi>Nazianzen the Divine</hi> calls it <hi>an altar which is above,</hi> that is, Chriſt himſelf. And for the laſt the <hi>Papiſts</hi> themſelves muſt yield here an improper altar to be under<g ref="char:EOLhyphen"/>ſtood, as <hi>Bellarmine</hi> confeſſeth, <hi>Non urgeo ipſum locum,</hi> I do not urge this place; and ſo doth <hi>Thomas, Anſelmus,</hi> the Divines of <hi>Collen,</hi> and others.</p>
+            <p>As to the <hi>Sacrifice</hi> there is none proper neither; ſo propheſieth <hi>Daniel,</hi> that <hi>the Sacrifice and Oblation ſhould ceaſe,</hi> and ſo we ſee in the fulfilling of the ſame Propheſie.
+<note place="margin">Heb. 9.26.</note> So ſaith <hi>Paul, Nor yet that he ſhould offer himſelf often, but now once in the end of the world, &amp;c.</hi> And in another place,
+<note place="margin">Heb. 10.12</note> 
+               <hi>And every Prieſt ſtandeth every day miniſtring and offering, but this man after he had offered one ſacrifice for ſins, for ever ſate down on the right hand of God.</hi> Where the Apoſtle plainly ſheweth that Chriſt offered himſelf but once, and ſo cannot be offered
+<pb n="27" facs="tcp:45757:18"/>any more. Yea, it is obſervable that the Apoſtle urgeth the ſufficiency of Chriſts oblation, and the excellency of it, by this argument: 1. Be<g ref="char:EOLhyphen"/>cauſe he offered himſelf but once, and did not repeat it often as an in<g ref="char:EOLhyphen"/>ſufficient ſacrifice. And 2. becauſe he ſat down on the right hand of God for ever, having done his work perfectly, which the Prieſts could not do, becauſe they did ſtand, which ſignifieth one that hath not done his work as yet, but muſt lay his hand once more to it, before he can ſit down, and reſt himſelf from his work. Therefore the Papiſt commen<g ref="char:EOLhyphen"/>cing daily ſacrifices of Chriſt after that <hi>one ſacrifice</hi> do derogate from the ſufficiency of it, and make him liable to ſtanding, where he ſits alrea<g ref="char:EOLhyphen"/>dy for ever at the right hand of God.</p>
+            <p>This was the reaſon likewiſe, why God did deſtroy <hi>Jeruſalem</hi> and the Temple after the fulfilling of Chriſts Mediatorſhip, as to one part of his Prieſthood which is his ſacrifice, <hi>viz.</hi> that there ſhould be no more material ſacrifices, being the place to which they were bound was de<g ref="char:EOLhyphen"/>ftroyed.</p>
+            <p>The <hi>Papiſts</hi> do urge the old cuſtom, and the expreſſions of the old fathers, who commonly ſpeak about ſacrifices; but they are very much in them, becauſe they underſtood by the word of a ſacrifice no<g ref="char:EOLhyphen"/>thing elſe but <hi>Sacrificium Euchariſticum,</hi> a <hi>Sacrifice of Thanksgiving,</hi> which commonly was perform'd at the Lords-Supper, which and alms joined together with prayers, are a living ſacrifice,
+<note place="margin">Rom. 12.1. Clem. A<g ref="char:EOLhyphen"/>lexand. <hi>l.</hi> 7 <hi>Stromat. De vero cultu. l.</hi> 6. <hi>c.</hi> 25. Auguſt. <hi>de C.D. l.</hi> 10. <hi>c.</hi> 4. Pſal. 110.</note> holy and accepta<g ref="char:EOLhyphen"/>ble to God. Hence <hi>Clemens Alexandrinus</hi> ſaith, <hi>they will not believe that a holy altar is a righteous ſoul, and holy prayer the incenſe.</hi> And <hi>Lactanti<g ref="char:EOLhyphen"/>us, There are two things to be offered, a gift and a ſacr fice both incorporal, the gift is the integrity of mind, the ſacrifice is prayer and pſalms. Au<g ref="char:EOLhyphen"/>ſtin</hi> calls our heart an altar, our ſacrifice humility and praiſe, our fire charity. And ſo <hi>Hieronimus, Ambroſius</hi> and others.</p>
+            <p>As to the Prieſt, there is no other but Chriſt himſelf, becauſe he is a Prieſt for ever according to the order of <hi>Melchizedech,</hi> and they can<g ref="char:EOLhyphen"/>not be Prieſts Levitical, becauſe they are ceaſed.</p>
+            <p>And ſo I having ſhewed there is no proper altar, no proper Prieſt, nor no proper Hoaſt, beſides Chriſt himſelf, <hi>Who is our ſacrifice,
+<note place="margin">Epiphan. <hi>lib.</hi> 2. <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>om.</hi> 1. <hi>Ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ.</hi>
+                  </note> our prieſt, our altar;</hi> I conclude there is no proper oblation extant at this time, for the ſins of the living and the dead, and by conſequence no Tranſubſtantiation upon which the ſacrifice is builded.</p>
+            <p>And here falleth their Purgatory, becauſe beſides that it is con<g ref="char:EOLhyphen"/>trary to Scriptures, to Reaſon, to the ancient Fathers, injurious to the ſatisfaction and merits of Chriſt, likewiſe if there be no ſacrifice
+<pb n="28" facs="tcp:45757:19"/>there ſhall be no Maſs, and <hi>per conſequens</hi> no money for the delivery of the ſouls out of Purgatory, and ſo Purgatory muſt needs fall.</p>
+            <p>Here falleth likewiſe their Doctrine of <hi>Concomitancy,</hi>
+               <note place="margin">Gelaſius Pontif. Conc. Con<g ref="char:EOLhyphen"/>ſtant.</note> for which ſake, as their Pope ſaith, they have committed a ſacriledg in ſubducing the Cup from the Lay-man, which although the Council of <hi>Conſtance</hi> pro<g ref="char:EOLhyphen"/>feſſeth to be contrary to the Primitive inſtitution of Chriſt, and the uſe of the ancient Church, yet notwithſtanding all this for ſome fooliſh reaſon (as that the hands of ſome doth ſhake, that ſome have ugly beards, <hi>&amp;c.</hi>) it declareth the man to be an <hi>Anathema,</hi> that will not believe it. And it is, and always hath been, a great wonder for me why the ſame doctrine of Concomitance ſhould not as well ſerve in the taking a<g ref="char:EOLhyphen"/>way of the bread, and uſing the cup, or elſe in ſubducing it as well from the Clergy as from the Lay-man; why it is an obſervation and a fulfill<g ref="char:EOLhyphen"/>ing of Law to abſtain from one, and a ſin, yea a mortal ſin, from the t'other. There is no Reaſon nor Scripture for it to be found. Therefore the Pro<g ref="char:EOLhyphen"/>teſtants teach very well, as well to the nature as to the integrity of this Sacrament, as we may ſee in their daily practice.</p>
+            <p>The reſt of the arguments which they have againſt or for this matter, we will, as I ſaid, refer to the aforementioned Treatiſe.</p>
+            <p>Only I will touch the point of the worſhipping of Saints. In which the Proteſtant Church teacheth according to the holy Scriptures, and to the ancient Fathers,
+<note place="margin">Auguſt.</note> that <hi>Sancti honorandi ſunt imitatione, non adorandi religione:</hi> The Saints are to be honoured by Imitation, but not adored religiouſly: and that for theſe true Reaſons, <hi>viz.</hi>
+            </p>
+            <p n="1">1. We cannot believe in Saints, <hi>Ergo;</hi> we cannot worſhip them: it is the argument of the Apoſtle <hi>Paul,
+<note place="margin">Rom. 10.14.</note> How then ſhall they call on him in whom they have not believed?</hi>
+            </p>
+            <p n="2">2. We are ſeverely forbidden to worſhip any thing beſides God; <hi>Thou ſhalt worſhip the Lord thy God,
+<note place="margin">Mat. 4.10. <hi>Iſaias. Aquinas.</hi> 1. <hi>p. q.</hi> 57. <hi>ar.</hi> 4. Jer. 17.1. <hi>p. q.</hi> 12. <hi>ar.</hi> 8.</note> and him only ſhalt thou ſerve.</hi>
+            </p>
+            <p n="3">3. Becauſe they do not know our thoughts, nor our prayers: <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> did not know us, and <hi>Iſaac</hi> was ignorant of us: From thence ſaith <hi>Thomas Aquinas,</hi> to know the cogitations of the heart is the property of God, and elſewhere, <hi>Ergo Angeli non cognoſcunt ſecreta cordis;</hi> there<g ref="char:EOLhyphen"/>fore Angels know not the ſecrets of the heart. And again, <hi>Cognoſcere ſingularia &amp; cogitata, &amp; facta hominum, non eſt de perfectione intelle<g ref="char:EOLhyphen"/>ctus creati;</hi> To know particulars, and the thoughts and acts of men, is not of the perfection of a created underſtanding. This conſidering, <hi>Durandus</hi> ſaith,
+<note place="margin">4. <hi>p.</hi> 463.</note> 
+               <hi>Si quaeratur an beati, cogitatione beata, cognoſcunt ora<g ref="char:EOLhyphen"/>tiones
+<pb n="29" facs="tcp:45757:19"/>noſtras, dicendum qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d non.</hi> If the queſtion be, whether the bleſſed Saints in their bleſſed knowledg do know our prayers? It is to be an<g ref="char:EOLhyphen"/>ſwered, they do not: according to <hi>Auſtin,
+<note place="margin">
+                     <hi>Aug. in lib. de cur. pro<g ref="char:EOLhyphen"/>mort. c.</hi> 15.1 <hi>Reg.</hi> 8.39.</note> Proinde fatendum eſt neſcire quidem mortuos quid his agatur.</hi> Furthermore, it is to be confeſſed, that the dead know not what is done here, becauſe God only knoweth the hearts of all the Children of men; ſeeing then that the Saints do not know our prayers, nor our thoughts; neither is it unlawful to adore them, or worſhip them.</p>
+            <p>But I cannot paſs by with ſilence an anſwer of a <hi>Jeſuit,</hi>
+               <note place="margin">Jeſuit, Anonymus.</note> upon this place we produced in our third Reaſon, <hi>Abraham doth not know us.</hi> He anſwereth, that the Saints are ſaid not to know the <hi>Iſraelites,</hi> as Chriſt ſaith to the wicked, <hi>Non novi vos,</hi> I do not know you;
+<note place="margin">Mat. 7.</note> yet he ſaith, Chriſt knew them well enough.</p>
+            <p>It is an anſwer I never heard before. But this good <hi>Socius</hi> doth not conſider that,</p>
+            <p n="1">1. He contradicts his own opinion of the Fathers in the Old Teſta<g ref="char:EOLhyphen"/>ment, being <hi>in limbo patrum,</hi> where ſurely they could not be adored, nor know our neceſſities, as well as Chriſt knew theirs to whom he ſpoke, <hi>I do not know you.</hi>
+            </p>
+            <p n="2">2. When Chriſt ſaith, <hi>I do not know you;</hi> he means by it, the know<g ref="char:EOLhyphen"/>ledg of approbation, that is, that he doth not approve them nor their doings, as it is plain, <hi>ex antitheſi,</hi> of knowing one, as <hi>David</hi> ſaith,
+<note place="margin">Pſal. 1.</note> 
+               <hi>The Lord knoweth the way of the righteous;</hi> that is, he approveth it. But when <hi>Abraham</hi> is ſaid <hi>not to know one,</hi> it is to be referred to a meer ignorance, as we may ſee it out of the oppoſition made betwixt <hi>Abraham</hi> and God; <hi>But thou, O Lord,</hi> &amp;c. So that when God is ſaid not to know a thing, it is to be underſtood he doth not approve it; but when men are charged with ignorance, it is to be underſtood pro<g ref="char:EOLhyphen"/>perly.</p>
+            <p>But having paſt this Objection, I will go on. <hi>Peter</hi> the Apoſtle, a Saint, and a holy Man would not admit the worſhipping of <hi>Corne<g ref="char:EOLhyphen"/>lius,</hi> ſaying, <hi>I my ſelf alſo am a man.</hi>
+               <note place="margin">Act. 10.26</note> The Angel (of whom <hi>John</hi> knew he was ſuch an one) would not admit the proſtration of <hi>John,</hi> but ſays, <hi>Worſhip God.</hi>
+               <note place="margin">Rev. 19.10</note>
+            </p>
+            <p>A Heathen Poet could tell that God only ſhould be worſhipped, when he ſaith,
+<q>
+                  <l>Nec ela ſum dixit, nec ſacro thuris honore,</l>
+                  <l>Humanum dignare caput.</l>
+               </q>
+               <pb n="30" facs="tcp:45757:20"/>Why ſhould we Chriſtians then be ſo unjuſt to the Almighty God, as to deprive him of his honour?</p>
+            <p>The diſtinction which they uſe betwixt <hi>Latreia</hi> and <hi>Duleia,</hi> and <hi>Hyperduleia,</hi> is of no value; and I have ſeen many which ſufficiently, yea abundantly refuted the ſame. Only I will conclude in this mat<g ref="char:EOLhyphen"/>ter, that if <hi>Papiſts</hi> cannot be accuſed of formal <hi>Idolatry,</hi> ſurely they are guilty of <hi>material.</hi> Their exceptions betwixt the coherence of <hi>Signum</hi> and <hi>Signatum,</hi> and other ſmall exceptions in that kind are vain. Every man is an Image of God, but I do believe they will not worſhip every one.</p>
+            <p>Having thus far ſhewen the truth of the Proteſtant Churches, in defending of the holy Scriptures, and in conforming their Doctrine to them in the moſt weighty points. I will infer this concluſion, that the Proteſtant Church is a true, a faithful, and a ſincere Church, which was to be the concluſion.</p>
+            <p>This I will add for the laſt, that namely, the <hi>Papiſts</hi> ſeeing they could not prevail with the Proteſtants, in the way of diſputing of their Doctrine: They queſtioned the Miniſtry of the Proteſtant Clergy, ſay<g ref="char:EOLhyphen"/>ing the ſame was not lawful.</p>
+            <p>But beſides that their own <hi>Scholaſticks,</hi>
+               <note place="margin">Bannes, Canus.</note> as <hi>Bannes, Canus,</hi> and o<g ref="char:EOLhyphen"/>thers doth allow, that <hi>per haereſin poteſtas ordinandi non amittitur:</hi> Likewiſe they ſhew the contrary by their practiſe, becauſe they do not re-ordain them that are ordained in our Churches, as to the ſub<g ref="char:EOLhyphen"/>ſtantial part; and it is ſure enough, that a bad Governour, or Gover<g ref="char:EOLhyphen"/>nours of the Church may ſend good labourers into the Vineyard of Chriſt, as I will ſhew by an inſtance, in anſwer upon the next follow<g ref="char:EOLhyphen"/>ing argument.</p>
+            <p>A <hi>Papiſt</hi> once diſcourſing with me about the Clergy of the Prote<g ref="char:EOLhyphen"/>ſtants, that namely they were unlawful, becauſe they were ordained by them that fell off from the Church of <hi>Rome,</hi> and ſo became <hi>Here<g ref="char:EOLhyphen"/>ticks,</hi> framed this argument againſt me, <hi>viz.</hi>
+            </p>
+            <p>That Antichriſt can ſend no ſervants for Chriſt.</p>
+            <q>But the <hi>Roman</hi> Pope (as the Proteſtant ſaith) is an Antichriſt, and he cannot ſend any ſervants for Chriſt.</q>
+            <p>It ſeemed unto me a very ſtrong argument at the firſt, till at laſt af<g ref="char:EOLhyphen"/>ter a little while I anſwered him thus:</p>
+            <p>That Antichriſt (that hath nothing of Chriſt in him) cannot ſend ſervants for Chriſt, I allow; but the <hi>Roman</hi> Pope is ſuch an Antichriſt, I deny, and ſo do the Proteſtants; becauſe: they do not affirm the
+<pb n="31" facs="tcp:45757:20"/>Pope to be quite without Chriſt, or elſe he is not an open Antichriſt, but a hidden one, under a Cloak of a Vicar of Chriſt, who diſtributeth the Offices of his temporal and earthly Court. And that ſuch a one may ſend good men, and willing to ſerve Chriſt; I have ſhewed it by an in<g ref="char:EOLhyphen"/>ſtance, which was this. When Chriſt was upon earth, and the limits of the Church were within the compaſs of <hi>Canaan,</hi> the Church was very much corrupted; Chriſt calleth their learning, <hi>fermentum,</hi> lea<g ref="char:EOLhyphen"/>ven; their lives, <hi>ſepulchra dealbata,</hi> painted Coffins. <hi>Paul</hi> calleth the High Prieſt a <hi>whited Wall,</hi> and yet they did ſend out good Work<g ref="char:EOLhyphen"/>men into the Vineyard of the Lord: as, <hi>viz. Joſeph, Nicodemus,</hi> and others.</p>
+            <p>Thus I ſtopt the mouth of the <hi>Papiſts,</hi> and here I will make an end of my book.</p>
+            <p>In the mean time, I thank the Almighty God for that he hath been pleaſed to open mine eyes, for they ſee the way of truth, and pray him to confirm me in it: And wiſh that every one may reject the way of abomination, and be rooted and built up in Chriſt, and ſtabliſhed in the faith, leſt he be ſpoiled by vain deceit,
+<note place="margin">Col. 2.7, 8.</note> after the tradi<g ref="char:EOLhyphen"/>tion of men, after the rudiments of the world, and not after Chriſt. Surely the <hi>Popiſh</hi> Religion, as it is conſidered in it ſelf, and ſo by con<g ref="char:EOLhyphen"/>ſequence their Church, is nothing elſe but <hi>Babylon:
+<note place="margin">Apoc.</note> Exite igitur ex ea popule mi;</hi> Go out of it my people, leſt you ſhould be partakers of their ſins. Imbrace the true Proteſtant Religion, which is pure in her Doctrine, holy in her Manners, true to God and King, to which both who will obey, let him be a true Proteſtant.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
